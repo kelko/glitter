@@ -1,0 +1,27 @@
+local:
+
+if val1 = 'hallo'
+	kelko: 'no'
+else
+	kelko: 'yes'
+end
+
+val1: 'hallo'
+
+if val1 = 'hallo'
+	navar: 'yes'
+else
+	navar: 'no'
+end
+
+injection:
+{
+	val1: kelko
+	val2: navar
+}
+
+//Result:
+//> yes yes
+
+template:
+*{val1} *{val2}

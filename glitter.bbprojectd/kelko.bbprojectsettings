@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:kelko</key>
+	<true/>
+	<key>ExpandedEditorWidth:kelko:displays([(0, 0), (1920, 1200)]:[(1920, 0), (1920, 1080)])</key>
+	<integer>0</integer>
+	<key>ExpandedItems:kelko</key>
+	<array>
+		<string>2195391D-E162-45C4-B352-61A42616BD7B</string>
+		<string>6C0F39D1-0816-4A11-8E0B-5971E7BF8516</string>
+	</array>
+	<key>FileFilterID:kelko</key>
+	<string>msng</string>
+	<key>OpenDocuments:kelko</key>
+	<array/>
+	<key>ShowInvisibles:kelko</key>
+	<false/>
+	<key>ShowSCMData:kelko</key>
+	<false/>
+	<key>TextFilesOnly:kelko</key>
+	<true/>
+	<key>ToolbarVisible:kelko</key>
+	<true/>
+	<key>ViewSplitterPosition:kelko</key>
+	<real>1.0042552947998047</real>
+	<key>WindowFrame:kelko:displays([(0, 0), (1920, 1200)]:[(1920, 0), (1920, 1080)])</key>
+	<string>rect(44,69,1018,304)</string>
+</dict>
+</plist>

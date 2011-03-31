@@ -1,0 +1,40 @@
+local:
+
+if val1 = 'hallo'
+	test1: 'no'
+else if val2 = 'hallo'
+	test1: 'no'
+else
+	test1: 'yes'
+end
+
+val2: 'hallo'
+
+if val1 = 'hallo'
+	test2: 'no'
+else if val2 = 'hallo'
+	test2: 'yes'
+else
+	test2: 'no'
+end
+
+val1: 'hallo'
+
+if val1 = 'hallo'
+	test3: 'yes'
+else if val2 = 'hallo'
+	test3: 'no'
+else
+	test3: 'no'
+end
+
+injection:
+{
+	t1: test1
+	t2: test2
+	t3: test3
+}
+
+template:
+*{t1} *{t2} *{t3}
+

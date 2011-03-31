@@ -1,0 +1,18 @@
+local:
+
+got1: load("loading2.gloss")
+got2: load("loading2.gloss") {
+	val1: 'hallo'
+}
+
+injection:
+{
+	val1: got1.result1
+	val2: got2.result2
+}
+
+//Result:
+//> yes yes
+
+template:
+*{val1} *{val2}

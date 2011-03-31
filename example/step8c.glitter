@@ -1,0 +1,13 @@
+injection:
+	{
+		imported: import("step8b.glitter")
+	}
+
+//Result:
+//> global ignored
+//> not passed hello
+//> global ignored
+//> passed hello
+
+template:
+*> imported

@@ -1,0 +1,46 @@
+local:
+
+val2: "hey"
+
+if val1 = 'hallo'
+	kelko: 'no'
+else
+	kelko: 'yes'
+	if defined? val2
+		tani: "yes"
+	else
+		tani: "no"
+	end
+end
+
+val1: 'hallo'
+
+if val1 = 'hallo'
+	navar: 'yes'
+	if defined? val3
+		elu: 'no'
+	else
+		elu: 'yes'
+	end
+else
+	navar: 'no'
+	if defined? val2
+		elu: "no"
+	else
+		elu: "never"
+	end
+end
+
+injection:
+{
+	val1: kelko
+	val2: navar
+	val3: tani
+	val4: elu
+}
+
+//Result:
+//> yes yes yes yes
+
+template:
+*{val1} *{val2} *{val3} *{val4}

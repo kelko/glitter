@@ -1,0 +1,27 @@
+local:
+
+kelko: {
+	name: ":kelko:"
+	greeting: "Hi"
+}
+
+navar: {
+	name: "Negh'Var"
+	greeting: "Lok'Thar"
+}
+
+
+injection:
+{
+	person: kelko
+},
+{
+	person: navar
+}
+
+//Result:
+//> Hi :kelko:
+//> Lok'Thar Negh'Var
+
+template:
+*{person.greeting} *{person.name}

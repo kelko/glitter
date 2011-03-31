@@ -1,0 +1,17 @@
+local:
+
+injection:
+{
+	val: load("loading4.gloss") {
+		val1: {
+			greet: 'hallo'
+			gBye: "bye"
+		}
+	}
+}
+
+//Result:
+//> bye world
+
+template:
+*{val.result.title} *{val.result.body}

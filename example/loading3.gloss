@@ -1,0 +1,6 @@
+if val1 = 'hallo'
+	result: {
+		title: "hallo"
+		body: "welt"
+	}
+end

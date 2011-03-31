@@ -1,0 +1,31 @@
+global:
+
+ignoreme: 'yes!'
+
+local:
+
+if defined? ignoreme
+
+	val1: 'global not ignored'
+
+else
+
+	val1: 'global ignored'
+
+end
+
+if param1 = 'hello'
+	val2: 'passed hello'
+else
+	val2: 'not passed hello'
+end
+
+injection:
+	{
+		result1: val1
+		result2: val2
+	}
+	
+template:
+*{result1}
+*{result2}

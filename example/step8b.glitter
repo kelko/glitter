@@ -1,0 +1,20 @@
+injection:
+	{
+		imported: import("imported1.glitter") {
+			param1: 'holla'
+		}
+	}
+	{
+		imported: import("imported1.glitter") {
+			param1: 'hello'
+		}
+	}
+
+//Result:
+//> global ignored
+//> not passed hello
+//> global ignored
+//> passed hello
+
+template:
+*> imported

@@ -1,0 +1,37 @@
+local:
+
+kelko: {
+	name: ":kelko:"
+	greeting: "Hi"
+	cv: quote("kelko.cv")
+}
+
+navar: {
+	name: "Negh'Var"
+	greeting: "Lok'Thar"
+	cv: quote("navar.cv")
+}
+
+
+injection:
+{
+	person: kelko
+},
+{
+	person: navar
+}
+
+//Result:
+//> Hi :kelko:
+//> Hi, this is the 
+//> file named "kelko.cv"
+//> And now comes a blank line
+//> 
+//> There it was. Did you see it?
+//> Lok'Thar Negh'Var
+//> Hello,
+//> and this file is Named "neghvar.cv"
+
+template:
+*{person.greeting} *{person.name}
+*> person.cv

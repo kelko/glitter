@@ -1,0 +1,22 @@
+local:
+
+tmp: {
+	greet: 'hallo'
+	gBye: "bye"
+}
+
+got: load("loading3.gloss") {
+	val1: tmp.greet
+}
+
+injection:
+{
+	val1: got.result.title
+	val2: got.result.body
+}
+
+//Result:
+//> hallo welt
+
+template:
+*{val1} *{val2}

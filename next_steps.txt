@@ -1,0 +1,4 @@
+-> ch dir
+-> computed vals
+-> double expansion
+-> here documents

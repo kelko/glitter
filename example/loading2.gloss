@@ -1,0 +1,7 @@
+if val1 = 'hallo'
+	result1: 'no'
+	result2: 'yes'
+else
+	result1: 'yes'
+	result2: 'no'
+end

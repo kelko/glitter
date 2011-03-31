@@ -1,0 +1,13 @@
+if val1 = 'hallo'
+	kelko: 'no'
+else
+	kelko: 'yes'
+end
+
+val1: 'hallo'
+
+if val1 = 'hallo'
+	navar: 'yes'
+else
+	navar: 'no'
+end

@@ -1,0 +1,6 @@
+if val1.greet = 'hallo'
+	result: {
+		title: val1.gBye
+		body: "world"
+	}
+end

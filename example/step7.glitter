@@ -1,0 +1,15 @@
+local:
+
+got: load("loading1.gloss")
+
+injection:
+{
+	val1: got.kelko
+	val2: got.navar
+}
+
+//Result:
+//> yes yes
+
+template:
+*{val1} *{val2}

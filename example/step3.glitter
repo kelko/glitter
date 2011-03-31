@@ -1,0 +1,16 @@
+local:
+
+kelko: ":kelko:"
+
+injection:
+{
+	val1: "Hi"
+	iKelko: kelko
+	val2: 123.3
+}
+
+//Result:
+//> Hi :kelko: 123.3
+
+template:
+*{val1} *{iKelko} *{val2}
