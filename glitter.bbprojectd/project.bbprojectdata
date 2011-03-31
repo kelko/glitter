@@ -62,6 +62,7 @@
 			</array>
 		</dict>
 		<string>EBC71964-164D-4406-A96F-CF9CC58C760F</string>
+		<string>CA5F6C8B-1B13-424E-A63E-33B32DEC62CA</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -71,22 +72,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDZjLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDZjLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrg8m2cCgAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyGsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybZUCAAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwNmMuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADYA
-				YwAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDZjLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA2Yy5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADYAYwAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA2Yy5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step6c.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step6c.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step6c.glitter</string>
 				<key>TypeID</key>
@@ -105,22 +107,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDdiLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDdiLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrhcm2uqcAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyHMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybaehwAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwN2IuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADcA
-				YgAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDdiLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA3Yi5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADcAYgAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA3Yi5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step7b.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step7b.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step7b.glitter</string>
 				<key>TypeID</key>
@@ -139,22 +142,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGqAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YTdmFyTmFtZUV4cGFuc2lv
+				AAAAAAG8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigTdmFyTmFtZUV4cGFuc2lv
 				bi5yYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrjcm2dP9URVhUIVJjaP//
+				AAAAAAAAAAAAAAAAAAAAABxyOMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtljfAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgBDTWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6dmFyTmFt
-				ZUV4cGFuc2lvbi5yYgAADgAoABMAdgBhAHIATgBhAG0A
-				ZQBFAHgAcABhAG4AcwBpAG8AbgAuAHIAYgAPABoADABN
-				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADZVc2Vycy9r
-				YXJ6ZWxlay9EZXNrdG9wL2dsaXR0ZXIvc3JjL3Zhck5h
-				bWVFeHBhbnNpb24ucmIAEwABLwAAFQACAA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIASk1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzp2YXJOYW1lRXhwYW5zaW9uLnJiAA4AKAATAHYA
+				YQByAE4AYQBtAGUARQB4AHAAYQBuAHMAaQBvAG4ALgBy
+				AGIADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQA
+				EgA9VXNlcnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9zcmMvdmFyTmFtZUV4cGFuc2lvbi5yYgAA
+				EwABLwAAFQACAA///wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/varNameExpansion.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/varNameExpansion.rb</string>
 				<key>RelativePath</key>
 				<string>./src/varNameExpansion.rb</string>
 				<key>TypeID</key>
@@ -173,22 +177,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGqAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YTYXNzaWdubWVudFBhcnNl
+				AAAAAAG8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigTYXNzaWdubWVudFBhcnNl
 				ci5yYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrX8m2vE5URVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyKcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtqAuAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgBDTWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6YXNzaWdu
-				bWVudFBhcnNlci5yYgAADgAoABMAYQBzAHMAaQBnAG4A
-				bQBlAG4AdABQAGEAcgBzAGUAcgAuAHIAYgAPABoADABN
-				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADZVc2Vycy9r
-				YXJ6ZWxlay9EZXNrdG9wL2dsaXR0ZXIvc3JjL2Fzc2ln
-				bm1lbnRQYXJzZXIucmIAEwABLwAAFQACAA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIASk1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzphc3NpZ25tZW50UGFyc2VyLnJiAA4AKAATAGEA
+				cwBzAGkAZwBuAG0AZQBuAHQAUABhAHIAcwBlAHIALgBy
+				AGIADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQA
+				EgA9VXNlcnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9zcmMvYXNzaWdubWVudFBhcnNlci5yYgAA
+				EwABLwAAFQACAA///wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/assignmentParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/assignmentParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/assignmentParser.rb</string>
 				<key>TypeID</key>
@@ -207,21 +212,21 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAF6AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YHbWFpbi5yYgAAAAAAAAAA
+				AAAAAAGMAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigHbWFpbi5yYgAAAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrc8m1ezcAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyNMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtV8XAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA3TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6bWFpbi5y
-				YgAADgAQAAcAbQBhAGkAbgAuAHIAYgAPABoADABNAGEA
-				YwBpAG4AdABvAHMAaAAgAEgARAASACpVc2Vycy9rYXJ6
-				ZWxlay9EZXNrdG9wL2dsaXR0ZXIvc3JjL21haW4ucmIA
-				EwABLwAAFQACAA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIAPk1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzptYWluLnJiAA4AEAAHAG0AYQBpAG4ALgByAGIA
+				DwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAx
+				VXNlcnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xp
+				dHRlci9zcmMvbWFpbi5yYgAAEwABLwAAFQACAA///wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/main.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/main.rb</string>
 				<key>RelativePath</key>
 				<string>./src/main.rb</string>
 				<key>TypeID</key>
@@ -240,22 +245,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGWAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YObG9jYWxQYXJzZXIucmIA
+				AAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigObG9jYWxQYXJzZXIucmIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrcsm1WOpURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyM8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtTzKAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA+TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6bG9jYWxQ
-				YXJzZXIucmIADgAeAA4AbABvAGMAYQBsAFAAYQByAHMA
-				ZQByAC4AcgBiAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBo
-				ACAASABEABIAMVVzZXJzL2thcnplbGVrL0Rlc2t0b3Av
-				Z2xpdHRlci9zcmMvbG9jYWxQYXJzZXIucmIAABMAAS8A
-				ABUAAgAP//8AAA==
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIARU1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpsb2NhbFBhcnNlci5yYgAADgAeAA4AbABvAGMA
+				YQBsAFAAYQByAHMAZQByAC4AcgBiAA8AGgAMAE0AYQBj
+				AGkAbgB0AG8AcwBoACAASABEABIAOFVzZXJzL2thcnpl
+				bGVrL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvc3JjL2xv
+				Y2FsUGFyc2VyLnJiABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/localParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/localParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/localParser.rb</string>
 				<key>TypeID</key>
@@ -283,22 +288,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDFiLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDFiLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrecm2xQYAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyEMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybao5gAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwMWIuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADEA
-				YgAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDFiLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXAxYi5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADEAYgAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXAxYi5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step1b.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step1b.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step1b.glitter</string>
 				<key>TypeID</key>
@@ -317,22 +323,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDNiLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDNiLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrfsm2uXQAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyFcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadVAAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwM2IuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADMA
-				YgAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDNiLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXAzYi5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADMAYgAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXAzYi5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step3b.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step3b.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step3b.glitter</string>
 				<key>TypeID</key>
@@ -351,22 +358,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDJiLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDJiLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxre8m2uXoAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyEsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadWgAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwMmIuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADIA
-				YgAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDJiLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXAyYi5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADIAYgAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXAyYi5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step2b.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step2b.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step2b.glitter</string>
 				<key>TypeID</key>
@@ -385,22 +393,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YQZmlsZVByb2Nlc3Nvci5y
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigQZmlsZVByb2Nlc3Nvci5y
 				YgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrY8m1e6FURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyLcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtV+BAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgBATWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6ZmlsZVBy
-				b2Nlc3Nvci5yYgAOACIAEABmAGkAbABlAFAAcgBvAGMA
-				ZQBzAHMAbwByAC4AcgBiAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIAM1VzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9zcmMvZmlsZVByb2Nlc3Nvci5y
-				YgAAEwABLwAAFQACAA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIAR01hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpmaWxlUHJvY2Vzc29yLnJiAAAOACIAEABmAGkA
+				bABlAFAAcgBvAGMAZQBzAHMAbwByAC4AcgBiAA8AGgAM
+				AE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAOlVzZXJz
+				L2thcnplbGVrL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIv
+				c3JjL2ZpbGVQcm9jZXNzb3IucmIAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/fileProcessor.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/fileProcessor.rb</string>
 				<key>RelativePath</key>
 				<string>./src/fileProcessor.rb</string>
 				<key>TypeID</key>
@@ -419,22 +428,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGSAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YNc2tpcFBhcnNlci5yYgAA
+				AAAAAAGkAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigNc2tpcFBhcnNlci5yYgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrd8m1hSwAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyNsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtWkMAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA9TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6c2tpcFBh
-				cnNlci5yYgAADgAcAA0AcwBrAGkAcABQAGEAcgBzAGUA
-				cgAuAHIAYgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAg
-				AEgARAASADBVc2Vycy9rYXJ6ZWxlay9EZXNrdG9wL2ds
-				aXR0ZXIvc3JjL3NraXBQYXJzZXIucmIAEwABLwAAFQAC
-				AA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIARE1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpza2lwUGFyc2VyLnJiAA4AHAANAHMAawBpAHAA
+				UABhAHIAcwBlAHIALgByAGIADwAaAAwATQBhAGMAaQBu
+				AHQAbwBzAGgAIABIAEQAEgA3VXNlcnMva2FyemVsZWsv
+				RGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9zcmMvc2tpcFBh
+				cnNlci5yYgAAEwABLwAAFQACAA///wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/skipParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/skipParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/skipParser.rb</string>
 				<key>TypeID</key>
@@ -453,22 +462,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDdlLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDdlLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxriMm2upQAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyH8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybaedAAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwN2UuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADcA
-				ZQAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDdlLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA3ZS5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADcAZQAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA3ZS5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step7e.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step7e.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step7e.glitter</string>
 				<key>TypeID</key>
@@ -487,23 +497,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGuAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ARaW1wb3J0ZWQxLmdsaXR0
+				AAAAAAHAAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcRaW1wb3J0ZWQxLmdsaXR0
 				ZXIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrasm3n3FURVhUIVJjaP//
+				AAAAAAAAAAAAAAAAAAAAABxyCMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybeDUQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIARU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTppbXBvcnRlZDEuZ2xpdHRlcgAADgAkABEAaQBtAHAA
-				bwByAHQAZQBkADEALgBnAGwAaQB0AHQAZQByAA8AGgAM
-				AE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAOFVzZXJz
-				L2thcnplbGVrL0Rlc2t0b3AvZ2xpdHRlci9leGFtcGxl
-				L2ltcG9ydGVkMS5nbGl0dGVyABMAAS8AABUAAgAP//8A
-				AA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAExNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOmltcG9ydGVkMS5nbGl0dGVyAA4A
+				JAARAGkAbQBwAG8AcgB0AGUAZAAxAC4AZwBsAGkAdAB0
+				AGUAcgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgA
+				RAASAD9Vc2Vycy9rYXJ6ZWxlay9EZXZlbG9wZXIvcnVi
+				eS9nbGl0dGVyL2V4YW1wbGUvaW1wb3J0ZWQxLmdsaXR0
+				ZXIAABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/imported1.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/imported1.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/imported1.glitter</string>
 				<key>TypeID</key>
@@ -522,22 +532,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDEuZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDEuZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxreMm2uYAAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyD8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadYAAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwMS5nbGl0dGVyAAAOABwADQBzAHQAZQBwADEA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXAxLmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXAxLmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAAxAC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDEuZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step1.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step1.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step1.glitter</string>
 				<key>TypeID</key>
@@ -556,21 +567,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGKAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YLaWZQYXJzZXIucmIAAAAA
+				AAAAAAGcAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigLaWZQYXJzZXIucmIAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxracm1hRxURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyMMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtWj8AAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA7TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6aWZQYXJz
-				ZXIucmIAAA4AGAALAGkAZgBQAGEAcgBzAGUAcgAuAHIA
-				YgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAAS
-				AC5Vc2Vycy9rYXJ6ZWxlay9EZXNrdG9wL2dsaXR0ZXIv
-				c3JjL2lmUGFyc2VyLnJiABMAAS8AABUAAgAP//8AAA==
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzppZlBhcnNlci5yYgAOABgACwBpAGYAUABhAHIA
+				cwBlAHIALgByAGIADwAaAAwATQBhAGMAaQBuAHQAbwBz
+				AGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsvRGV2ZWxv
+				cGVyL3J1YnkvZ2xpdHRlci9zcmMvaWZQYXJzZXIucmIA
+				ABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/ifParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/ifParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/ifParser.rb</string>
 				<key>TypeID</key>
@@ -589,22 +601,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDdjLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDdjLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrhsm2uqMAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyHcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybaegwAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwN2MuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADcA
-				YwAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDdjLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA3Yy5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADcAYwAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA3Yy5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step7c.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step7c.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step7c.glitter</string>
 				<key>TypeID</key>
@@ -632,22 +645,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDMuZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDMuZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrfcm2uXYAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyFMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadVgAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwMy5nbGl0dGVyAAAOABwADQBzAHQAZQBwADMA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXAzLmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXAzLmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAAzAC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDMuZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step3.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step3.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step3.glitter</string>
 				<key>TypeID</key>
@@ -666,22 +680,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGmAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YSaW5qZWN0aW9uUGFyc2Vy
+				AAAAAAG4AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigSaW5qZWN0aW9uUGFyc2Vy
 				LnJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxra8m1TlUAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyMcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtTI1AAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgBCTWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6aW5qZWN0
-				aW9uUGFyc2VyLnJiAA4AJgASAGkAbgBqAGUAYwB0AGkA
-				bwBuAFAAYQByAHMAZQByAC4AcgBiAA8AGgAMAE0AYQBj
-				AGkAbgB0AG8AcwBoACAASABEABIANVVzZXJzL2thcnpl
-				bGVrL0Rlc2t0b3AvZ2xpdHRlci9zcmMvaW5qZWN0aW9u
-				UGFyc2VyLnJiAAATAAEvAAAVAAIAD///AAA=
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIASU1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzppbmplY3Rpb25QYXJzZXIucmIAAA4AJgASAGkA
+				bgBqAGUAYwB0AGkAbwBuAFAAYQByAHMAZQByAC4AcgBi
+				AA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIA
+				PFVzZXJzL2thcnplbGVrL0RldmVsb3Blci9ydWJ5L2ds
+				aXR0ZXIvc3JjL2luamVjdGlvblBhcnNlci5yYgATAAEv
+				AAAVAAIAD///AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/injectionParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/injectionParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/injectionParser.rb</string>
 				<key>TypeID</key>
@@ -700,22 +715,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDguZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDguZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxricm2xUkAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyIMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybapKQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwOC5nbGl0dGVyAAAOABwADQBzAHQAZQBwADgA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXA4LmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA4LmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAA4AC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDguZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step8.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step8.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step8.glitter</string>
 				<key>TypeID</key>
@@ -734,22 +750,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDhiLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDhiLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrism3n/9URVhUIVJjaP//
+				AAAAAAAAAAAAAAAAAAAAABxyIcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybeD3wAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwOGIuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADgA
-				YgAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDhiLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA4Yi5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADgAYgAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA4Yi5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step8b.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step8b.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step8b.glitter</string>
 				<key>TypeID</key>
@@ -768,22 +785,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDJjLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDJjLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrfMm2uXkAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyE8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadWQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwMmMuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADIA
-				YwAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDJjLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXAyYy5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADIAYwAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXAyYy5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step2c.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step2c.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step2c.glitter</string>
 				<key>TypeID</key>
@@ -802,21 +820,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGKAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AIbmF2YXIuY3YAAAAAAAAA
+				AAAAAAGcAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcIbmF2YXIuY3YAAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrdMm1IZ0AAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyDsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybUFfQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAPE1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpuYXZhci5jdgAOABIACABuAGEAdgBhAHIALgBjAHYA
-				DwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAv
-				VXNlcnMva2FyemVsZWsvRGVza3RvcC9nbGl0dGVyL2V4
-				YW1wbGUvbmF2YXIuY3YAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAENNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOm5hdmFyLmN2AAAOABIACABuAGEA
+				dgBhAHIALgBjAHYADwAaAAwATQBhAGMAaQBuAHQAbwBz
+				AGgAIABIAEQAEgA2VXNlcnMva2FyemVsZWsvRGV2ZWxv
+				cGVyL3J1YnkvZ2xpdHRlci9leGFtcGxlL25hdmFyLmN2
+				ABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/navar.cv</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/navar.cv</string>
 				<key>RelativePath</key>
 				<string>./example/navar.cv</string>
 				<key>TypeID</key>
@@ -835,23 +854,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAG6AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YXYmFzaWNTdHJ1Y3R1cmVQ
+				AAAAAAHMAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigXYmFzaWNTdHJ1Y3R1cmVQ
 				YXJzZXIucmIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrYMm0K4dURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyKsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtB13AAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgBHTWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6YmFzaWNT
-				dHJ1Y3R1cmVQYXJzZXIucmIAAA4AMAAXAGIAYQBzAGkA
-				YwBTAHQAcgB1AGMAdAB1AHIAZQBQAGEAcgBzAGUAcgAu
-				AHIAYgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgA
-				RAASADpVc2Vycy9rYXJ6ZWxlay9EZXNrdG9wL2dsaXR0
-				ZXIvc3JjL2Jhc2ljU3RydWN0dXJlUGFyc2VyLnJiABMA
-				AS8AABUAAgAP//8AAA==
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIATk1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpiYXNpY1N0cnVjdHVyZVBhcnNlci5yYgAOADAA
+				FwBiAGEAcwBpAGMAUwB0AHIAdQBjAHQAdQByAGUAUABh
+				AHIAcwBlAHIALgByAGIADwAaAAwATQBhAGMAaQBuAHQA
+				bwBzAGgAIABIAEQAEgBBVXNlcnMva2FyemVsZWsvRGV2
+				ZWxvcGVyL3J1YnkvZ2xpdHRlci9zcmMvYmFzaWNTdHJ1
+				Y3R1cmVQYXJzZXIucmIAABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/basicStructureParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/basicStructureParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/basicStructureParser.rb</string>
 				<key>TypeID</key>
@@ -870,21 +889,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGKAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AIa2Vsa28uY3YAAAAAAAAA
+				AAAAAAGcAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcIa2Vsa28uY3YAAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrbMm1WysAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyCcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybU/CwAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAPE1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTprZWxrby5jdgAOABIACABrAGUAbABrAG8ALgBjAHYA
-				DwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAv
-				VXNlcnMva2FyemVsZWsvRGVza3RvcC9nbGl0dGVyL2V4
-				YW1wbGUva2Vsa28uY3YAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAENNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOmtlbGtvLmN2AAAOABIACABrAGUA
+				bABrAG8ALgBjAHYADwAaAAwATQBhAGMAaQBuAHQAbwBz
+				AGgAIABIAEQAEgA2VXNlcnMva2FyemVsZWsvRGV2ZWxv
+				cGVyL3J1YnkvZ2xpdHRlci9leGFtcGxlL2tlbGtvLmN2
+				ABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/kelko.cv</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/kelko.cv</string>
 				<key>RelativePath</key>
 				<string>./example/kelko.cv</string>
 				<key>TypeID</key>
@@ -903,21 +923,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YKZ2xpdHRlci5yYgAAAAAA
+				AAAAAAGYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigKZ2xpdHRlci5yYgAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrZ8m1WxhURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyLsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtT74AAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA6TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6Z2xpdHRl
-				ci5yYgAOABYACgBnAGwAaQB0AHQAZQByAC4AcgBiAA8A
-				GgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIALVVz
-				ZXJzL2thcnplbGVrL0Rlc2t0b3AvZ2xpdHRlci9zcmMv
-				Z2xpdHRlci5yYgAAEwABLwAAFQACAA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpnbGl0dGVyLnJiAAAOABYACgBnAGwAaQB0AHQA
+				ZQByAC4AcgBiAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBo
+				ACAASABEABIANFVzZXJzL2thcnplbGVrL0RldmVsb3Bl
+				ci9ydWJ5L2dsaXR0ZXIvc3JjL2dsaXR0ZXIucmIAEwAB
+				LwAAFQACAA///wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/glitter.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/glitter.rb</string>
 				<key>RelativePath</key>
 				<string>./src/glitter.rb</string>
 				<key>TypeID</key>
@@ -936,22 +957,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGSAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YNbG9hZFBhcnNlci5yYgAA
+				AAAAAAGkAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigNbG9hZFBhcnNlci5yYgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrccm2tJtURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyMsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtph7AAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA9TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6bG9hZFBh
-				cnNlci5yYgAADgAcAA0AbABvAGEAZABQAGEAcgBzAGUA
-				cgAuAHIAYgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAg
-				AEgARAASADBVc2Vycy9rYXJ6ZWxlay9EZXNrdG9wL2ds
-				aXR0ZXIvc3JjL2xvYWRQYXJzZXIucmIAEwABLwAAFQAC
-				AA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIARE1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpsb2FkUGFyc2VyLnJiAA4AHAANAGwAbwBhAGQA
+				UABhAHIAcwBlAHIALgByAGIADwAaAAwATQBhAGMAaQBu
+				AHQAbwBzAGgAIABIAEQAEgA3VXNlcnMva2FyemVsZWsv
+				RGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9zcmMvbG9hZFBh
+				cnNlci5yYgAAEwABLwAAFQACAA///wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/loadParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/loadParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/loadParser.rb</string>
 				<key>TypeID</key>
@@ -970,22 +991,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGaAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YPZ2xvYmFsUGFyc2VyLnJi
+				AAAAAAGsAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigPZ2xvYmFsUGFyc2VyLnJi
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxraMm0J2pURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyL8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtBlaAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA/TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6Z2xvYmFs
-				UGFyc2VyLnJiAAAOACAADwBnAGwAbwBiAGEAbABQAGEA
-				cgBzAGUAcgAuAHIAYgAPABoADABNAGEAYwBpAG4AdABv
-				AHMAaAAgAEgARAASADJVc2Vycy9rYXJ6ZWxlay9EZXNr
-				dG9wL2dsaXR0ZXIvc3JjL2dsb2JhbFBhcnNlci5yYgAT
-				AAEvAAAVAAIAD///AAA=
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIARk1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpnbG9iYWxQYXJzZXIucmIADgAgAA8AZwBsAG8A
+				YgBhAGwAUABhAHIAcwBlAHIALgByAGIADwAaAAwATQBh
+				AGMAaQBuAHQAbwBzAGgAIABIAEQAEgA5VXNlcnMva2Fy
+				emVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9zcmMv
+				Z2xvYmFsUGFyc2VyLnJiAAATAAEvAAAVAAIAD///AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/globalParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/globalParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/globalParser.rb</string>
 				<key>TypeID</key>
@@ -1004,22 +1025,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDYuZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDYuZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrgcm2usUAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyGMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybaepQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwNi5nbGl0dGVyAAAOABwADQBzAHQAZQBwADYA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXA2LmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA2LmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAA2AC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDYuZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step6.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step6.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step6.glitter</string>
 				<key>TypeID</key>
@@ -1038,22 +1060,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDUuZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDUuZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrgMm2ue4AAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyF8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadzgAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwNS5nbGl0dGVyAAAOABwADQBzAHQAZQBwADUA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXA1LmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA1LmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAA1AC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDUuZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step5.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step5.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step5.glitter</string>
 				<key>TypeID</key>
@@ -1072,22 +1095,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGWAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YOZXhwcmVzc2lvbnMucmIA
+				AAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigOZXhwcmVzc2lvbnMucmIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrYsm2xdsAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyLMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtqm7AAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA+TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6ZXhwcmVz
-				c2lvbnMucmIADgAeAA4AZQB4AHAAcgBlAHMAcwBpAG8A
-				bgBzAC4AcgBiAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBo
-				ACAASABEABIAMVVzZXJzL2thcnplbGVrL0Rlc2t0b3Av
-				Z2xpdHRlci9zcmMvZXhwcmVzc2lvbnMucmIAABMAAS8A
-				ABUAAgAP//8AAA==
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIARU1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpleHByZXNzaW9ucy5yYgAADgAeAA4AZQB4AHAA
+				cgBlAHMAcwBpAG8AbgBzAC4AcgBiAA8AGgAMAE0AYQBj
+				AGkAbgB0AG8AcwBoACAASABEABIAOFVzZXJzL2thcnpl
+				bGVrL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvc3JjL2V4
+				cHJlc3Npb25zLnJiABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/expressions.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/expressions.rb</string>
 				<key>RelativePath</key>
 				<string>./src/expressions.rb</string>
 				<key>TypeID</key>
@@ -1106,22 +1129,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGSAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YNZXhjZXB0aW9ucy5yYgAA
+				AAAAAAGkAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigNZXhjZXB0aW9ucy5yYgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrYcm1HusAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyK8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtQLLAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA9TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6ZXhjZXB0
-				aW9ucy5yYgAADgAcAA0AZQB4AGMAZQBwAHQAaQBvAG4A
-				cwAuAHIAYgAPABoADABNAGEAYwBpAG4AdABvAHMAaAAg
-				AEgARAASADBVc2Vycy9rYXJ6ZWxlay9EZXNrdG9wL2ds
-				aXR0ZXIvc3JjL2V4Y2VwdGlvbnMucmIAEwABLwAAFQAC
-				AA///wAA
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIARE1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpleGNlcHRpb25zLnJiAA4AHAANAGUAeABjAGUA
+				cAB0AGkAbwBuAHMALgByAGIADwAaAAwATQBhAGMAaQBu
+				AHQAbwBzAGgAIABIAEQAEgA3VXNlcnMva2FyemVsZWsv
+				RGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9zcmMvZXhjZXB0
+				aW9ucy5yYgAAEwABLwAAFQACAA///wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/exceptions.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/exceptions.rb</string>
 				<key>RelativePath</key>
 				<string>./src/exceptions.rb</string>
 				<key>TypeID</key>
@@ -1140,22 +1163,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AObG9hZGluZzIuZ2xvc3MA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcObG9hZGluZzIuZ2xvc3MA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrbsm2d9oAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyC8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybZbugAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpsb2FkaW5nMi5nbG9zcwAOAB4ADgBsAG8AYQBkAGkA
-				bgBnADIALgBnAGwAbwBzAHMADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvbG9hZGluZzIu
-				Z2xvc3MAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOmxvYWRpbmcyLmdsb3NzAAAOAB4A
+				DgBsAG8AYQBkAGkAbgBnADIALgBnAGwAbwBzAHMADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL2xvYWRpbmcyLmdsb3NzABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/loading2.gloss</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/loading2.gloss</string>
 				<key>RelativePath</key>
 				<string>./example/loading2.gloss</string>
 				<key>TypeID</key>
@@ -1174,22 +1198,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AObG9hZGluZzEuZ2xvc3MA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcObG9hZGluZzEuZ2xvc3MA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrbcm2cbgAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyCsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybZVmAAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpsb2FkaW5nMS5nbG9zcwAOAB4ADgBsAG8AYQBkAGkA
-				bgBnADEALgBnAGwAbwBzAHMADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvbG9hZGluZzEu
-				Z2xvc3MAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOmxvYWRpbmcxLmdsb3NzAAAOAB4A
+				DgBsAG8AYQBkAGkAbgBnADEALgBnAGwAbwBzAHMADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL2xvYWRpbmcxLmdsb3NzABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/loading1.gloss</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/loading1.gloss</string>
 				<key>RelativePath</key>
 				<string>./example/loading1.gloss</string>
 				<key>TypeID</key>
@@ -1208,22 +1233,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AObG9hZGluZzQuZ2xvc3MA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcObG9hZGluZzQuZ2xvc3MA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrcMm2t2sAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyDcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybabSwAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpsb2FkaW5nNC5nbG9zcwAOAB4ADgBsAG8AYQBkAGkA
-				bgBnADQALgBnAGwAbwBzAHMADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvbG9hZGluZzQu
-				Z2xvc3MAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOmxvYWRpbmc0Lmdsb3NzAAAOAB4A
+				DgBsAG8AYQBkAGkAbgBnADQALgBnAGwAbwBzAHMADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL2xvYWRpbmc0Lmdsb3NzABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/loading4.gloss</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/loading4.gloss</string>
 				<key>RelativePath</key>
 				<string>./example/loading4.gloss</string>
 				<key>TypeID</key>
@@ -1242,22 +1268,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDhjLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDhjLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxri8m3ofRURVhUIVJjaP//
+				AAAAAAAAAAAAAAAAAAAAABxyIsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybeF1AAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwOGMuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADgA
-				YwAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDhjLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA4Yy5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADgAYwAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA4Yy5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step8c.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step8c.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step8c.glitter</string>
 				<key>TypeID</key>
@@ -1270,28 +1297,61 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
+		<key>CA5F6C8B-1B13-424E-A63E-33B32DEC62CA</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccYUJUkVBRE1FLm1kAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABxxi8m6ZV5URVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2dsaXR0ZXJfdG1w
+				AAAQAAgAAMmk0hcAAAARAAgAAMm6ST4AAAABABAAHHGF
+				AAWrgwAFq3gAAJGfAAIAOU1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXJfdG1wOlJF
+				QURNRS5tZAAADgAUAAkAUgBFAEEARABNAEUALgBtAGQA
+				DwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAs
+				VXNlcnMva2FyemVsZWsvRGVza3RvcC9nbGl0dGVyX3Rt
+				cC9SRUFETUUubWQAEwABLwAAFQACAA///wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/karzelek/Desktop/glitter_tmp/README.md</string>
+				<key>RelativePath</key>
+				<string>../../../Desktop/glitter_tmp/README.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>README.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
 		<key>CDEFEDCD-6FB1-4CB2-807B-B9EF4D9701AB</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGWAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YOcXVvdGVQYXJzZXIucmIA
+				AAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigOcXVvdGVQYXJzZXIucmIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrdsm1IjEAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyNcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtQYRAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgA+TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6cXVvdGVQ
-				YXJzZXIucmIADgAeAA4AcQB1AG8AdABlAFAAYQByAHMA
-				ZQByAC4AcgBiAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBo
-				ACAASABEABIAMVVzZXJzL2thcnplbGVrL0Rlc2t0b3Av
-				Z2xpdHRlci9zcmMvcXVvdGVQYXJzZXIucmIAABMAAS8A
-				ABUAAgAP//8AAA==
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIARU1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzpxdW90ZVBhcnNlci5yYgAADgAeAA4AcQB1AG8A
+				dABlAFAAYQByAHMAZQByAC4AcgBiAA8AGgAMAE0AYQBj
+				AGkAbgB0AG8AcwBoACAASABEABIAOFVzZXJzL2thcnpl
+				bGVrL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvc3JjL3F1
+				b3RlUGFyc2VyLnJiABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/quoteParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/quoteParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/quoteParser.rb</string>
 				<key>TypeID</key>
@@ -1310,22 +1370,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDZiLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDZiLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrgsm2usMAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyGcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybaeowAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwNmIuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADYA
-				YgAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDZiLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA2Yi5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADYAYgAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA2Yi5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step6b.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step6b.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step6b.glitter</string>
 				<key>TypeID</key>
@@ -1344,22 +1405,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDQuZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDQuZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrf8m2uXEAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyFsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadUQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwNC5nbGl0dGVyAAAOABwADQBzAHQAZQBwADQA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXA0LmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA0LmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAA0AC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDQuZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step4.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step4.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step4.glitter</string>
 				<key>TypeID</key>
@@ -1378,22 +1440,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca5YRdGVtcGxhdGVQYXJzZXIu
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccigRdGVtcGxhdGVQYXJzZXIu
 				cmIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrjMm1fNIAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyN8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				pNIXAAAAEQAIAADJtWCyAAAAAQAUABxrlgAca1wABauD
-				AAWreAAAkZ8AAgBBTWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpzcmM6dGVtcGxh
-				dGVQYXJzZXIucmIAAA4AJAARAHQAZQBtAHAAbABhAHQA
-				ZQBQAGEAcgBzAGUAcgAuAHIAYgAPABoADABNAGEAYwBp
-				AG4AdABvAHMAaAAgAEgARAASADRVc2Vycy9rYXJ6ZWxl
-				ay9EZXNrdG9wL2dsaXR0ZXIvc3JjL3RlbXBsYXRlUGFy
-				c2VyLnJiABMAAS8AABUAAgAP//8AAA==
+				pNIXAAAAEQAIAADJuk+xAAAAAQAYABxyKAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIASE1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OnNyYzp0ZW1wbGF0ZVBhcnNlci5yYgAOACQAEQB0AGUA
+				bQBwAGwAYQB0AGUAUABhAHIAcwBlAHIALgByAGIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA7VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9zcmMvdGVtcGxhdGVQYXJzZXIucmIAABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/src/templateParser.rb</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/src/templateParser.rb</string>
 				<key>RelativePath</key>
 				<string>./src/templateParser.rb</string>
 				<key>TypeID</key>
@@ -1412,22 +1475,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AObG9hZGluZzMuZ2xvc3MA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcObG9hZGluZzMuZ2xvc3MA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrb8m2t08AAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyDMm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybabLwAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpsb2FkaW5nMy5nbG9zcwAOAB4ADgBsAG8AYQBkAGkA
-				bgBnADMALgBnAGwAbwBzAHMADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvbG9hZGluZzMu
-				Z2xvc3MAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOmxvYWRpbmczLmdsb3NzAAAOAB4A
+				DgBsAG8AYQBkAGkAbgBnADMALgBnAGwAbwBzAHMADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL2xvYWRpbmczLmdsb3NzABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/loading3.gloss</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/loading3.gloss</string>
 				<key>RelativePath</key>
 				<string>./example/loading3.gloss</string>
 				<key>TypeID</key>
@@ -1446,22 +1510,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDcuZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDcuZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrhMm2urEAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyG8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybaekQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwNy5nbGl0dGVyAAAOABwADQBzAHQAZQBwADcA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXA3LmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA3LmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAA3AC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDcuZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step7.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step7.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step7.glitter</string>
 				<key>TypeID</key>
@@ -1480,22 +1545,22 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGOAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca1wObmV4dF9zdGVwcy50eHQA
+				AAAAAAGgAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccdAObmV4dF9zdGVwcy50eHQA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrdcm4IEUAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyJ8m6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2dsaXR0ZXIAABAA
-				CAAAyaTSFwAAABEACAAAybgEJQAAAAEAEAAca1wABauD
-				AAWreAAAkZ8AAgA6TWFjaW50b3NoIEhEOlVzZXJzOmth
-				cnplbGVrOkRlc2t0b3A6Z2xpdHRlcjpuZXh0X3N0ZXBz
-				LnR4dAAOAB4ADgBuAGUAeAB0AF8AcwB0AGUAcABzAC4A
-				dAB4AHQADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABI
-				AEQAEgAtVXNlcnMva2FyemVsZWsvRGVza3RvcC9nbGl0
-				dGVyL25leHRfc3RlcHMudHh0AAATAAEvAAAVAAIAD///
-				AAA=
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAFAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				Om5leHRfc3RlcHMudHh0AAAOAB4ADgBuAGUAeAB0AF8A
+				cwB0AGUAcABzAC4AdAB4AHQADwAaAAwATQBhAGMAaQBu
+				AHQAbwBzAGgAIABIAEQAEgA0VXNlcnMva2FyemVsZWsv
+				RGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9uZXh0X3N0ZXBz
+				LnR4dAATAAEvAAAVAAIAD///AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/next_steps.txt</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/next_steps.txt</string>
 				<key>RelativePath</key>
 				<string>./next_steps.txt</string>
 				<key>TypeID</key>
@@ -1514,22 +1579,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6AOc3RlcDdkLmdsaXR0ZXIA
+				AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcOc3RlcDdkLmdsaXR0ZXIA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxrh8m2upsAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyHsm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybaeewAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQk1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwN2QuZ2xpdHRlcgAOAB4ADgBzAHQAZQBwADcA
-				ZAAuAGcAbABpAHQAdABlAHIADwAaAAwATQBhAGMAaQBu
-				AHQAbwBzAGgAIABIAEQAEgA1VXNlcnMva2FyemVsZWsv
-				RGVza3RvcC9nbGl0dGVyL2V4YW1wbGUvc3RlcDdkLmds
-				aXR0ZXIAABMAAS8AABUAAgAP//8AAA==
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAElNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXA3ZC5nbGl0dGVyAAAOAB4A
+				DgBzAHQAZQBwADcAZAAuAGcAbABpAHQAdABlAHIADwAa
+				AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA8VXNl
+				cnMva2FyemVsZWsvRGV2ZWxvcGVyL3J1YnkvZ2xpdHRl
+				ci9leGFtcGxlL3N0ZXA3ZC5nbGl0dGVyABMAAS8AABUA
+				AgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step7d.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step7d.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step7d.glitter</string>
 				<key>TypeID</key>
@@ -1548,22 +1614,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAca6ANc3RlcDIuZ2xpdHRlcgAA
+				AAAAAAGwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccgcNc3RlcDIuZ2xpdHRlcgAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxresm2uX0AAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABxyEcm6a9EAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2V4YW1wbGUAABAA
-				CAAAyaTSFwAAABEACAAAybadXQAAAAEAFAAca6AAHGtc
-				AAWrgwAFq3gAAJGfAAIAQU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXI6ZXhhbXBs
-				ZTpzdGVwMi5nbGl0dGVyAAAOABwADQBzAHQAZQBwADIA
-				LgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBjAGkAbgB0
-				AG8AcwBoACAASABEABIANFVzZXJzL2thcnplbGVrL0Rl
-				c2t0b3AvZ2xpdHRlci9leGFtcGxlL3N0ZXAyLmdsaXR0
-				ZXIAEwABLwAAFQACAA///wAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAGAAccgcAHHHQ
+				AArvuQAJWeQABat4AACRnwACAEhNYWNpbnRvc2ggSEQ6
+				VXNlcnM6a2FyemVsZWs6RGV2ZWxvcGVyOnJ1Ynk6Z2xp
+				dHRlcjpleGFtcGxlOnN0ZXAyLmdsaXR0ZXIADgAcAA0A
+				cwB0AGUAcAAyAC4AZwBsAGkAdAB0AGUAcgAPABoADABN
+				AGEAYwBpAG4AdABvAHMAaAAgAEgARAASADtVc2Vycy9r
+				YXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4
+				YW1wbGUvc3RlcDIuZ2xpdHRlcgAAEwABLwAAFQACAA//
+				/wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter/example/step2.glitter</string>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/example/step2.glitter</string>
 				<key>RelativePath</key>
 				<string>./example/step2.glitter</string>
 				<key>TypeID</key>

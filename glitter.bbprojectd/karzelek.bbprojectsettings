@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>EmbeddedEditorHidden:karzelek</key>
-	<false/>
+	<true/>
 	<key>ExpandedEditorWidth:karzelek:displays([(0, 0), (1680, 1050)]:[(1680, 0), (1920, 1200)])</key>
 	<integer>552</integer>
 	<key>ExpandedItems:karzelek</key>
@@ -14,104 +14,7 @@
 	<key>FileFilterID:karzelek</key>
 	<string>msng</string>
 	<key>OpenDocuments:karzelek</key>
-	<array>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAGiAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADJ
-			pOAnSCsAAAAX94gTdmFyTmFtZUV4cGFuc2lvbi5yYgAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABg0
-			Mcm2dP9URVhUIVJjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2ds
-			aXR0ZXIAABAACAAAyaTSFwAAABEACAAAybZY3wAAAAEAEAAX94gA
-			C5mBAAWreAAAkZ8AAgA/TWFjaW50b3NoIEhEOlVzZXJzOmthcnpl
-			bGVrOkRyb3Bib3g6Z2xpdHRlcjp2YXJOYW1lRXhwYW5zaW9uLnJi
-			AAAOACgAEwB2AGEAcgBOAGEAbQBlAEUAeABwAGEAbgBzAGkAbwBu
-			AC4AcgBiAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIA
-			MlVzZXJzL2thcnplbGVrL0Ryb3Bib3gvZ2xpdHRlci92YXJOYW1l
-			RXhwYW5zaW9uLnJiABMAAS8AABUAAgAP//8AAA==
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/karzelek/Dropbox/glitter/varNameExpansion.rb</string>
-			<key>RelativePath</key>
-			<string>../../Dropbox/glitter/varNameExpansion.rb</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAGKAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADJ
-			pOAnSCsAAAAX94gNZXhjZXB0aW9ucy5yYgAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABf3
-			s8m1HusAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2ds
-			aXR0ZXIAABAACAAAyaTSFwAAABEACAAAybUCywAAAAEAEAAX94gA
-			C5mBAAWreAAAkZ8AAgA5TWFjaW50b3NoIEhEOlVzZXJzOmthcnpl
-			bGVrOkRyb3Bib3g6Z2xpdHRlcjpleGNlcHRpb25zLnJiAAAOABwA
-			DQBlAHgAYwBlAHAAdABpAG8AbgBzAC4AcgBiAA8AGgAMAE0AYQBj
-			AGkAbgB0AG8AcwBoACAASABEABIALFVzZXJzL2thcnplbGVrL0Ry
-			b3Bib3gvZ2xpdHRlci9leGNlcHRpb25zLnJiABMAAS8AABUAAgAP
-			//8AAA==
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/karzelek/Dropbox/glitter/exceptions.rb</string>
-			<key>RelativePath</key>
-			<string>../../Dropbox/glitter/exceptions.rb</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAGKAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADJ
-			pOAnSCsAAAAX94gNc3RlcDEuZ2xpdHRlcgAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABg2
-			58m2uYAAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2ds
-			aXR0ZXIAABAACAAAyaTSFwAAABEACAAAybadYAAAAAEAEAAX94gA
-			C5mBAAWreAAAkZ8AAgA5TWFjaW50b3NoIEhEOlVzZXJzOmthcnpl
-			bGVrOkRyb3Bib3g6Z2xpdHRlcjpzdGVwMS5nbGl0dGVyAAAOABwA
-			DQBzAHQAZQBwADEALgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBj
-			AGkAbgB0AG8AcwBoACAASABEABIALFVzZXJzL2thcnplbGVrL0Ry
-			b3Bib3gvZ2xpdHRlci9zdGVwMS5nbGl0dGVyABMAAS8AABUAAgAP
-			//8AAA==
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/karzelek/Dropbox/glitter/step1.glitter</string>
-			<key>RelativePath</key>
-			<string>../../Dropbox/glitter/step1.glitter</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAGKAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADJ
-			pOAnSCsAAAAX94gNc3RlcDUuZ2xpdHRlcgAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABg3
-			rcm2ue4AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2ds
-			aXR0ZXIAABAACAAAyaTSFwAAABEACAAAybadzgAAAAEAEAAX94gA
-			C5mBAAWreAAAkZ8AAgA5TWFjaW50b3NoIEhEOlVzZXJzOmthcnpl
-			bGVrOkRyb3Bib3g6Z2xpdHRlcjpzdGVwNS5nbGl0dGVyAAAOABwA
-			DQBzAHQAZQBwADUALgBnAGwAaQB0AHQAZQByAA8AGgAMAE0AYQBj
-			AGkAbgB0AG8AcwBoACAASABEABIALFVzZXJzL2thcnplbGVrL0Ry
-			b3Bib3gvZ2xpdHRlci9zdGVwNS5nbGl0dGVyABMAAS8AABUAAgAP
-			//8AAA==
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/karzelek/Dropbox/glitter/step5.glitter</string>
-			<key>RelativePath</key>
-			<string>../../Dropbox/glitter/step5.glitter</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-	</array>
+	<array/>
 	<key>ShowInvisibles:karzelek</key>
 	<false/>
 	<key>ShowSCMData:karzelek</key>
@@ -121,8 +24,8 @@
 	<key>ToolbarVisible:karzelek</key>
 	<true/>
 	<key>ViewSplitterPosition:karzelek</key>
-	<real>0.36184972524642944</real>
+	<real>1.0031949281692505</real>
 	<key>WindowFrame:karzelek:displays([(0, 0), (1680, 1050)]:[(1680, 0), (1920, 1200)])</key>
-	<string>rect(44,0,990,865)</string>
+	<string>rect(44,0,990,313)</string>
 </dict>
 </plist>
