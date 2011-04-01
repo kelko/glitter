@@ -1303,23 +1303,23 @@
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAAGEAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
 				AAAAAADJpOAnSCsAAAAccYUJUkVBRE1FLm1kAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAABxxi8m6ZV5URVhUUipjaP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2dsaXR0ZXJfdG1w
 				AAAQAAgAAMmk0hcAAAARAAgAAMm6ST4AAAABABAAHHGF
-				AAWrgwAFq3gAAJGfAAIAOU1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazpEZXNrdG9wOmdsaXR0ZXJfdG1wOlJF
-				QURNRS5tZAAADgAUAAkAUgBFAEEARABNAEUALgBtAGQA
-				DwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAs
-				VXNlcnMva2FyemVsZWsvRGVza3RvcC9nbGl0dGVyX3Rt
-				cC9SRUFETUUubWQAEwABLwAAFQACAA///wAA
+				AAWsjwAFq3gAAJGfAAIAOE1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazouVHJhc2g6Z2xpdHRlcl90bXA6UkVB
+				RE1FLm1kAA4AFAAJAFIARQBBAEQATQBFAC4AbQBkAA8A
+				GgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAK1Vz
+				ZXJzL2thcnplbGVrLy5UcmFzaC9nbGl0dGVyX3RtcC9S
+				RUFETUUubWQAABMAAS8AABUAAgAP//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/Desktop/glitter_tmp/README.md</string>
+				<string>file://localhost/Users/karzelek/.Trash/glitter_tmp/README.md</string>
 				<key>RelativePath</key>
-				<string>../../../Desktop/glitter_tmp/README.md</string>
+				<string>../../../.Trash/glitter_tmp/README.md</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>

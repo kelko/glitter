@@ -1,4 +1,17 @@
--> ch dir
--> computed vals
--> double expansion
--> here documents
+Next Steps
+===========
+
+To Develop
+-----------
+
+- double expansion
+- here documents
+
+To Test
+-----------
+
+- chdir
+- computed vals
+	* @file
+	* @iteration
+

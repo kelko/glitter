@@ -12,9 +12,7 @@ class TemplateProcessor
 			import $1.strip
 		
 		else			
-			@fileProcessor.write( line.gsub( /\*\{\s*([\w\d\.]*\s*)\}/ ) do |varName|
-				expand varName
-			end)
+			@fileProcessor.write( expand(line) )
 			
 		end
 		
@@ -25,15 +23,32 @@ class TemplateProcessor
 		return expression.evaluate
 	end
 	
-	def expand(variable)
+	def expand(line)
+		return line.gsub( /\*\{\s*([\w\d\.]*\s*)\}/ ) do |varName|
+				evaluate varName
+			end
+	end
+		
+	def evaluate(variable)
 	
-		if variable =~ /\*\{\s*([\w\.]*)\s*\}/
+		if variable =~ /\*\{\s*(\$[\w\.]*)\s*\}/
+			key = $1
+			return injectionValues[key]
+			
+			
+		elsif variable =~ /\*\*\{\s*([\w\.]*)\s*\}/
 			expression = expandCompoundVarName($1, injectionValues)
 			
 			unless expression.is_a?(SimpleExpression)
-				puts variable
-				puts expression.class
-				p expression
+				raise OnlySimpleExpressionsHere
+			end
+			
+			return expand( expression.evaluate )
+	
+		elsif variable =~ /\*\{\s*([\w\.]*)\s*\}/
+			expression = expandCompoundVarName($1, injectionValues)
+			
+			unless expression.is_a?(SimpleExpression)
 				raise OnlySimpleExpressionsHere
 			end
 			
@@ -81,6 +96,7 @@ class TemplateParser
 		
 		tProcessor = TemplateProcessor.new
 		tProcessor.fileProcessor = @processor
+		iter = 1
 		
 		@processor.injectionValues.each do |valueSet|
 			
@@ -90,6 +106,7 @@ class TemplateParser
 				tProcessor.process line
 			end
 			
+			iter = iter.succ			
 		end
 		
 	end

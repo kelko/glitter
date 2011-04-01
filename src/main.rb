@@ -6,4 +6,10 @@ require 'glitter.rb'
 
 glitter = Glitter.new
 
-glitter.process( File.new(ARGV[0], 'r'), $stdout)
+if ARGV[0] == "-" then
+	glitter.processInputStream( $stdin, $stdout )
+else
+	glitter.processInputFile( ARGV[0], $stdout)
+end
+
+

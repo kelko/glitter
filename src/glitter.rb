@@ -1,32 +1,50 @@
 require 'exceptions'
 require 'basicStructureParser.rb'
 require 'fileProcessor.rb'
+require 'pathname'
 
 class Glitter
 
 	def initialize
 		@inputStack = []
+		@wdStack = []
 		@output = nil
 		@globals = {}
 		
 	end
 	
-	def process(inputStream, output)
+	def processInputFile(inputFile, output)
+		@output = output
+	
+		run( 
+			opening(inputFile) do |file| 
+				fileProcessor( file, BasicStructureParser.new(false))
+			end
+		)
+	end
+	
+	def processInputStream(inputStream, output)
 		@output = output
 	
 		run fileProcessor( inputStream, BasicStructureParser.new(false))		
 	end
 
 	def startProcessing(filePath, startParser, parameters = {} )
-		file = (File.open(filePath, 'r'))		
-		
-		run fileProcessor(file, startParser, parameters)	
+		run( opening(filePath) { |file| fileProcessor(file, startParser, parameters) } )
 	end
 	
 	def startQuoting(filePath, startParser)
-		file = (File.open(filePath, 'r'))		
+		run( opening(filePath) { |file| fileQuoter( file, startParser ) } )
+	end
+	
+	def opening(filePath)
+		pn = cleanAbsolutePath(filePath)
+		@wdStack << Pathname.pwd
 		
-		run fileQuoter( file, startParser )
+		Dir.chdir(pn.dirname)		
+		file = (File.open(pn.basename, 'r'))
+		
+		return yield(file)
 	end
 
 	def write(line)
@@ -48,9 +66,21 @@ class Glitter
 	end
 	
 	def run(processor)
+	
 		@inputStack << processor
 		processor.run
 		@inputStack.delete_at(-1)
+
+		if (@wdStack.size > 0) then
+			Dir.chdir(@wdStack[-1])
+			@wdStack.delete_at(-1)
+		end
+	end
+		
+	def cleanAbsolutePath(path)
+		p = Pathname.new(path)
+		p = Pathname.pwd + p unless p.absolute?
+		return p.cleanpath
 	end
 	
 	def globals
