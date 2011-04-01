@@ -26,6 +26,6 @@
 	<key>ViewSplitterPosition:karzelek</key>
 	<real>1.0031949281692505</real>
 	<key>WindowFrame:karzelek:displays([(0, 0), (1680, 1050)]:[(1680, 0), (1920, 1200)])</key>
-	<string>rect(44,0,990,313)</string>
+	<string>rect(44,233,990,546)</string>
 </dict>
 </plist>

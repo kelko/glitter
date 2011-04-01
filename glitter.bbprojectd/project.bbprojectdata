@@ -62,7 +62,7 @@
 			</array>
 		</dict>
 		<string>EBC71964-164D-4406-A96F-CF9CC58C760F</string>
-		<string>CA5F6C8B-1B13-424E-A63E-33B32DEC62CA</string>
+		<string>64EB14F0-A87A-419D-935E-CA6934F11473</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -627,6 +627,39 @@
 			</dict>
 			<key>ItemName</key>
 			<string>step7c.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>64EB14F0-A87A-419D-935E-CA6934F11473</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGMAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJpOAnSCsAAAAccdAJUkVBRE1FLm1kAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABxyBsm6a9EAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2dsaXR0ZXIAABAA
+				CAAAyaTSFwAAABEACAAAybpPsQAAAAEAFAAccdAACu+5
+				AAlZ5AAFq3gAAJGfAAIAPE1hY2ludG9zaCBIRDpVc2Vy
+				czprYXJ6ZWxlazpEZXZlbG9wZXI6cnVieTpnbGl0dGVy
+				OlJFQURNRS5tZAAOABQACQBSAEUAQQBEAE0ARQAuAG0A
+				ZAAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAAS
+				AC9Vc2Vycy9rYXJ6ZWxlay9EZXZlbG9wZXIvcnVieS9n
+				bGl0dGVyL1JFQURNRS5tZAAAEwABLwAAFQACAA///wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/karzelek/Developer/ruby/glitter/README.md</string>
+				<key>RelativePath</key>
+				<string>./README.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>README.md</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
@@ -1294,39 +1327,6 @@
 			</dict>
 			<key>ItemName</key>
 			<string>step8c.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>CA5F6C8B-1B13-424E-A63E-33B32DEC62CA</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGEAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJpOAnSCsAAAAccYUJUkVBRE1FLm1kAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABxxi8m6ZV5URVhUUipjaP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2dsaXR0ZXJfdG1w
-				AAAQAAgAAMmk0hcAAAARAAgAAMm6ST4AAAABABAAHHGF
-				AAWsjwAFq3gAAJGfAAIAOE1hY2ludG9zaCBIRDpVc2Vy
-				czprYXJ6ZWxlazouVHJhc2g6Z2xpdHRlcl90bXA6UkVB
-				RE1FLm1kAA4AFAAJAFIARQBBAEQATQBFAC4AbQBkAA8A
-				GgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAK1Vz
-				ZXJzL2thcnplbGVrLy5UcmFzaC9nbGl0dGVyX3RtcC9S
-				RUFETUUubWQAABMAAS8AABUAAgAP//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/karzelek/.Trash/glitter_tmp/README.md</string>
-				<key>RelativePath</key>
-				<string>../../../.Trash/glitter_tmp/README.md</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>README.md</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
