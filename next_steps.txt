@@ -3,8 +3,6 @@ Next Steps
 
 To Develop
 -----------
-
-- double expansion
 - here documents
 
 To Test
@@ -14,4 +12,4 @@ To Test
 - computed vals
 	* @file
 	* @iteration
-
+- double expansion
