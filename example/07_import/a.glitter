@@ -1,0 +1,83 @@
+injection:
+	{
+		imported: import("../01_single_injection/a.glitter")
+	}
+	{
+		imported: import("../01_single_injection/b.glitter")
+	}
+	{
+		imported: import("../02_multiple_injection/a.glitter")
+	}
+	{
+		imported: import("../02_multiple_injection/b.glitter")
+	}
+	{
+		imported: import("../02_multiple_injection/c.glitter")
+	}
+	{
+		imported: import("../03_local/a.glitter")
+	}
+	{
+		imported: import("../03_local/b.glitter")
+	}
+	{
+		imported: import("../03_local/c.glitter")
+	}
+	{
+		imported: import("../04_quote/a.glitter")
+	}
+	{
+		imported: import("../05_if/a.glitter")
+	}
+	{
+		imported: import("../05_if/b.glitter")
+	}
+	{
+		imported: import("../06_load/a.glitter")
+	}
+	{
+		imported: import("../06_load/b.glitter")
+	}
+	{
+		imported: import("../06_load/c.glitter")
+	}
+	{
+		imported: import("../06_load/d.glitter")
+	}
+	{
+		imported: import("../06_load/e.glitter")
+	}
+	
+//Result:
+//> Hi 123.3
+//> Hi 123.3 Hello
+//> Hi 123.3
+//> Hello 30
+//> Hi 123.3
+//> Hi 123.3
+//> Hi 123.3
+//> Hi 123.3
+//> Hello 30
+//> Hi :kelko: 123.3
+//> Hi :kelko: 123.4
+//> Hi :kelko:
+//> Lok'Thar Negh'Var
+//> Hi :kelko:
+//> Hi, this is the 
+//> file named "kelko.cv"
+//> And now comes a blank line
+//> 
+//> There it was. Did you see it?
+//> Lok'Thar Negh'Var
+//> Hello,
+//> and this file is Named "neghvar.cv"
+//> yes yes
+//> yes yes yes yes
+//> yes yes
+//> yes yes
+//> hallo welt
+//> bye world
+//> bye world
+
+template:
+*> imported

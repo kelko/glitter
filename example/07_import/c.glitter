@@ -1,6 +1,6 @@
 injection:
 	{
-		imported: import("step8b.glitter")
+		imported: import("b.glitter")
 	}
 
 //Result:
