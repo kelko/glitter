@@ -7,9 +7,13 @@ To Develop
 
 To Test
 -----------
-
 - chdir
 - computed vals
 	* @file
 	* @iteration
 - double expansion
+
+Ideas
+------------
+- more flexible templating
+- header / footer functionality (for iterated template processing)
