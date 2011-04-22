@@ -1,4 +1,4 @@
-local:
+- local - 
 
 kelko: {
 	name: ":kelko:"
@@ -13,7 +13,7 @@ navar: {
 }
 
 
-injection:
+- injection - 
 {
 	person: kelko
 },
@@ -32,6 +32,6 @@ injection:
 //> Hello,
 //> and this file is Named "neghvar.cv"
 
-template:
+- template - 
 *{person.greeting} *{person.name}
 *> person.cv

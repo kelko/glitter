@@ -1,4 +1,4 @@
-local:
+- local - 
 
 val2: "hey"
 
@@ -31,7 +31,7 @@ else
 	end
 end
 
-injection:
+- injection - 
 {
 	val1: kelko
 	val2: navar
@@ -42,5 +42,5 @@ injection:
 //Result:
 //> yes yes yes yes
 
-template:
+- template - 
 *{val1} *{val2} *{val3} *{val4}

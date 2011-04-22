@@ -1,4 +1,4 @@
-injection:
+- injection - 
 	{
 		imported: import("b.glitter")
 	}
@@ -9,5 +9,5 @@ injection:
 //> global ignored
 //> passed hello
 
-template:
+- template - 
 *> imported

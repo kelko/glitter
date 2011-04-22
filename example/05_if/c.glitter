@@ -1,4 +1,4 @@
-local:
+- local - 
 
 if val1 = 'hallo'
 	test1: 'no'
@@ -28,13 +28,13 @@ else
 	test3: 'no'
 end
 
-injection:
+- injection - 
 {
 	t1: test1
 	t2: test2
 	t3: test3
 }
 
-template:
+- template - 
 *{t1} *{t2} *{t3}
 

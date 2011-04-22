@@ -1,0 +1,14 @@
+- local -
+
+msg: >>
+How are you? I'm working on a Mac, and the value you want is *{Val1}
+<<
+
+- injection -
+	{
+		Val1: "42"
+		Message: msg
+	}
+
+- template -
+**{msg}

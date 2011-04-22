@@ -1,4 +1,4 @@
-local:
+- local - 
 
 tmp: {
 	greet: 'hallo'
@@ -9,7 +9,7 @@ got: load("loading3.gloss") {
 	val1: tmp.greet
 }
 
-injection:
+- injection - 
 {
 	val1: got.result.title
 	val2: got.result.body
@@ -18,5 +18,5 @@ injection:
 //Result:
 //> hallo welt
 
-template:
+- template - 
 *{val1} *{val2}

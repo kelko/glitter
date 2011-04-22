@@ -1,4 +1,4 @@
-injection:
+- injection - 
 	{
 		imported: import("../01_single_injection/a.glitter")
 	}
@@ -79,5 +79,5 @@ injection:
 //> bye world
 //> bye world
 
-template:
+- template - 
 *> imported

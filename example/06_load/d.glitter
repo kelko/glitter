@@ -1,4 +1,4 @@
-local:
+- local - 
 
 got: load("loading4.gloss") {
 	val1: {
@@ -7,7 +7,7 @@ got: load("loading4.gloss") {
 	}
 }
 
-injection:
+- injection - 
 {
 	val: got.result
 }
@@ -15,5 +15,5 @@ injection:
 //Result:
 //> bye world
 
-template:
+- template - 
 *{val.title} *{val.body}

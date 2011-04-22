@@ -1,8 +1,8 @@
-local:
+- local - 
 
 kelko: ":kelko:"
 
-injection:
+- injection - 
 {
 	val1: "Hi"
 	iKelko: kelko
@@ -12,5 +12,5 @@ injection:
 //Result:
 //> Hi :kelko: 123.3
 
-template:
+- template - 
 *{val1} *{iKelko} *{val2}

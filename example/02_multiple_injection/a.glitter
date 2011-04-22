@@ -1,4 +1,4 @@
-injection:
+- injection - 
 {
 	val1: "Hi"
 	val2: 123.3
@@ -12,5 +12,5 @@ injection:
 //> Hi 123.3
 //> Hello 30
 
-template:
+- template - 
 *{val1} *{val2}

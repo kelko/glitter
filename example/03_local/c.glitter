@@ -1,4 +1,4 @@
-local:
+- local - 
 
 kelko: {
 	name: ":kelko:"
@@ -11,7 +11,7 @@ navar: {
 }
 
 
-injection:
+- injection - 
 {
 	person: kelko
 },
@@ -23,5 +23,5 @@ injection:
 //> Hi :kelko:
 //> Lok'Thar Negh'Var
 
-template:
+- template - 
 *{person.greeting} *{person.name}

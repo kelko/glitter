@@ -1,8 +1,8 @@
-global:
+- global - 
 
 ignoreme: 'yes!'
 
-local:
+- local - 
 
 if defined? ignoreme
 
@@ -20,12 +20,12 @@ else
 	val2: 'not passed hello'
 end
 
-injection:
+- injection - 
 	{
 		result1: val1
 		result2: val2
 	}
 	
-template:
+- template - 
 *{result1}
 *{result2}

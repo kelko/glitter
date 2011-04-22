@@ -4,12 +4,23 @@
 <dict>
 	<key>EmbeddedEditorHidden:kelko</key>
 	<true/>
-	<key>ExpandedEditorWidth:kelko:displays([(0, 0), (1920, 1200)]:[(1920, 0), (1920, 1080)])</key>
+	<key>ExpandedEditorWidth:kelko:displays([(0, 0), (1440, 900)])</key>
 	<integer>0</integer>
 	<key>ExpandedItems:kelko</key>
 	<array>
 		<string>2195391D-E162-45C4-B352-61A42616BD7B</string>
 		<string>6C0F39D1-0816-4A11-8E0B-5971E7BF8516</string>
+		<string>A7A8C317-39E6-4CF0-8332-A683C4F52215</string>
+		<string>85C4049E-20FD-4124-B310-9CF30FB39747</string>
+		<string>C5C36E43-9A5E-4381-BA82-4569BFCDDD48</string>
+		<string>DA9C1DC2-2A85-45E1-B85B-31C534454EEA</string>
+		<string>CCD6E5BA-75AE-4BA6-8A92-7A46FB3D2017</string>
+		<string>2706F470-44AF-4FAF-A8E9-E08BF396B26B</string>
+		<string>417AB9E6-97F3-45C1-8EAE-5DA41A59E40D</string>
+		<string>800C97FD-8F12-48CD-8236-6F2343D447E2</string>
+		<string>E2A921B1-5888-499A-A5EE-81C42E72CF47</string>
+		<string>63D19E26-5A23-446A-B44C-C00C7FD2F497</string>
+		<string>801FD904-C692-4027-956A-74FF792BD3E9</string>
 	</array>
 	<key>FileFilterID:kelko</key>
 	<string>msng</string>
@@ -24,8 +35,8 @@
 	<key>ToolbarVisible:kelko</key>
 	<true/>
 	<key>ViewSplitterPosition:kelko</key>
-	<real>1.0042552947998047</real>
-	<key>WindowFrame:kelko:displays([(0, 0), (1920, 1200)]:[(1920, 0), (1920, 1080)])</key>
-	<string>rect(44,69,1018,304)</string>
+	<real>1.0044444799423218</real>
+	<key>WindowFrame:kelko:displays([(0, 0), (1440, 900)])</key>
+	<string>rect(44,60,809,285)</string>
 </dict>
 </plist>
