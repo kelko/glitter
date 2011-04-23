@@ -8,10 +8,7 @@ To Develop
 
 To Test
 -----------
-- computed vals
-	* @file
-	* @iteration
-- double expansion
+
 
 Ideas
 ------------
