@@ -111,8 +111,8 @@ class FileProcessor
 	end
 	
 	def addInjectionValues(values)
-		values["@iteration"] = @injectionValues.size + 1
-		values["@file"] = @input.path
+		values["$iteration"] = @injectionValues.size + 1
+		values["$file"] = @input.path
 		@injectionValues << values
 	end
 

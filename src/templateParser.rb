@@ -24,7 +24,7 @@ class TemplateProcessor
 	end
 	
 	def expand(line)
-		return line.gsub( /\*\{\s*([\w\d\.]*\s*)\}/ ) do |varName|
+		return line.gsub( /\*?\*\{\s*(\$?[\w\d\.]*\s*)\}/ ) do |varName|
 				evaluate varName
 			end
 	end
@@ -49,6 +49,7 @@ class TemplateProcessor
 			expression = expandCompoundVarName($1, injectionValues)
 			
 			unless expression.is_a?(SimpleExpression)
+				p expression
 				raise OnlySimpleExpressionsHere
 			end
 			

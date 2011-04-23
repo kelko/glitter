@@ -1,0 +1,9 @@
+- injection -
+	{
+	}
+
+//Result
+//> This file is named "a.glitter"
+
+- template -
+This fiel is named "*{$file}"

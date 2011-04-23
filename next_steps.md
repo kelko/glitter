@@ -4,10 +4,10 @@ Next Steps
 To Develop
 -----------
 - here documents
+- header / footer functionality
 
 To Test
 -----------
-- chdir
 - computed vals
 	* @file
 	* @iteration
@@ -15,5 +15,3 @@ To Test
 
 Ideas
 ------------
-- more flexible templating
-- header / footer functionality (for iterated template processing)

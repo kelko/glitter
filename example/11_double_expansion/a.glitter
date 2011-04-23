@@ -1,8 +1,6 @@
 - local -
 
-msg: >>
-How are you? I'm working on a Mac, and the value you want is *{Val1}
-<<
+msg: "How are you? I'm working on a Mac, and the value you want is *{Val1}"
 
 - injection -
 	{
@@ -10,5 +8,8 @@ How are you? I'm working on a Mac, and the value you want is *{Val1}
 		Message: msg
 	}
 
+//Result
+//> How are you? I'm working on a Mac, and the value you want is 42
+
 - template -
-**{msg}
+**{Message}

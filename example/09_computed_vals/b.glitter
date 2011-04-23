@@ -1,0 +1,18 @@
+- injection -
+	{
+		val1: "Hello World"
+	}
+	{
+		val1: "Hallo Welt"
+	}
+	{
+		val1: "Ala ma kota"
+	}
+
+//Result
+//> In Iteration no.1 I say "Hello World"
+//> In Iteration no.2 I say "Hallo Welt"
+//> In Iteration no.3 I say "Ala ma kota"
+
+- template -
+In Iteration no.*{$iteration} I say "*{val1}"
