@@ -24,10 +24,11 @@ class InjectionParser
 	
 	def parse(line, words)
 		
-		case words[0]
+		if line =~ /\-\stemplate\s\-/ then
+			raise NotMyJobException
+		end
 		
-			when "template:", "template"
-				raise NotMyJobException
+		case words[0]
 				
 			when /(\d+)x/
 				@multiplier = Integer($1)

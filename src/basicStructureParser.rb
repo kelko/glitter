@@ -19,8 +19,8 @@ class BasicStructureParser
 	
 	def parse(line, words)
 		
-		case words[0]			
-			when "global:"
+		case line			
+			when /\-\sglobal\s\-/
 				if @step > 0 then
 					raise "global may not come at this point"
 				end
@@ -29,7 +29,7 @@ class BasicStructureParser
 				@processor.registerParser( GlobalParser.new( @secondary ) )	
 				
 				
-			when "local:"
+			when /\-\slocal\s\-/
 				if @step > 1 then
 					raise "local may not come at this point"
 				end
@@ -37,7 +37,7 @@ class BasicStructureParser
 				@step = 2
 				@processor.registerParser(LocalParser.new)	
 				
-			when "injection:"
+			when /\-\sinjection\s\-/
 				if @step > 2 then
 					raise "injection may not come at this point"
 				end
@@ -45,7 +45,7 @@ class BasicStructureParser
 				@step = 3
 				@processor.registerParser(InjectionParser.new)
 			
-			when "template:"
+			when /\-\stemplate\s\-/
 				if @step > 3 then
 					raise "template may not come at this point"
 				end

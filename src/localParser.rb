@@ -12,9 +12,11 @@ class LocalParser
 	
 	def parse(line, words)
 		
+		if line =~ /\-\sinjection\s\-/
+			raise NotMyJobException
+		end
+		
 		case words[0]
-			when "injection:"
-				raise NotMyJobException
 				
 			when "if", "unless"
 				processIfOrUnless(line, words)

@@ -15,12 +15,12 @@ class GlobalParser
 	
 	def parse(line, words)
 		
-		case words[0] 
-			when "local:", "injection:"
+		case line
+			when /\-\slocal\s\-/, /\-\sinjection\s\-/
 				@processor.defineGlobals(@valueStore) unless @skip
 				raise NotMyJobException
 				
-			when "template:"
+			when /\-\stemplate\s\-/
 				raise WTF
 		end
 
