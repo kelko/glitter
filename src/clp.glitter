@@ -1,0 +1,16 @@
+- injection -
+	{
+		about: quote("kelko/tools/about.rb")
+		parser: quote("kelko/tools/parser.rb")
+	}
+
+- template -
+
+module KELKO
+	module TOOLS
+
+*> about
+*> parser
+	
+	end
+end

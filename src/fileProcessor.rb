@@ -1,7 +1,3 @@
-require 'exceptions.rb'
-require 'expressions.rb'
-require 'varNameExpansion.rb'
-
 class FileProcessor
 
 	include VarNameExpansion
@@ -112,7 +108,13 @@ class FileProcessor
 	
 	def addInjectionValues(values)
 		values["$iteration"] = @injectionValues.size + 1
-		values["$file"] = @input.path
+		
+		if @input.is_a?(File) then
+			values["$file"] = @input.path
+		else
+			values["$file"] = "stdin"
+		end
+		
 		@injectionValues << values
 	end
 

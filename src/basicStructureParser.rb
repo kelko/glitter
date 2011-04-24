@@ -1,9 +1,3 @@
-require 'exceptions.rb'
-require 'globalParser.rb'
-require 'localParser.rb'
-require 'injectionParser.rb'
-require 'templateParser.rb'
-
 class BasicStructureParser
 
 	attr_accessor :processor
@@ -51,7 +45,6 @@ class BasicStructureParser
 				end
 				
 				@step = 4
-				@processor.quoteMode = true
 				@processor.registerParser(TemplateParser.new)
 				
 			else

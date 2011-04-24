@@ -1,6 +1,3 @@
-require 'exceptions.rb'
-require 'expressions.rb'
-
 module VarNameExpansion
 
 	def varNameSplitter 

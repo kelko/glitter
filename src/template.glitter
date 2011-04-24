@@ -1,0 +1,95 @@
+- injection -
+	{
+		class: import("clp.glitter")
+		clpSetup: quote("clpSetup.rb")
+	}
+	{
+		class: quote("exceptions.rb")
+	}
+	{
+		class: quote("quoteParser.rb")
+	}
+	{
+		class: quote("expressions.rb")
+	}
+	{
+		class: quote("varNameExpansion.rb")
+	}
+	{
+		class: quote("loadParser.rb")
+	}
+	{
+		class: quote("hereDocumentParser.rb")
+	}
+	{
+		class: quote("globalParser.rb")
+	}
+	{
+		class: quote("assignmentParser.rb")
+	}
+	{
+		class: quote("skipParser.rb")
+	}
+	{
+		class: quote("ifParser.rb")
+	}
+	{
+		class: quote("localParser.rb")
+	}
+	{
+		class: quote("injectionParser.rb")
+	}
+	{
+		class: quote("templateParser.rb")
+	}
+	{
+		class: quote("basicStructureParser.rb")
+	}
+	{
+		class: quote("fileProcessor.rb")
+	}
+	{
+		class: quote("glitter_class.rb")
+	}
+
+- template -
+header: >>
+#!/usr/bin/env ruby
+# -*- encoding: utf-8 -*-
+require 'pathname'
+
+<<
+
+body: >>
+
+*> class
+
+<<
+
+footer: >>
+*> clpSetup
+
+pa = clp.parseArguments(ARGV)
+
+if pa then
+
+	glitter = Glitter.new
+	
+	if pa.paramSet?("INPUT")
+	
+		if pa.paramSet?("OUTPUT")
+			outFile = File.open(ARGV[1], 'w+')
+			glitter.processInputFile( ARGV[0], outFile)
+		
+		else
+			glitter.processInputFile( ARGV[0], $stdout)
+			
+		end
+	
+	else
+		glitter.processInputStream( $stdin, $stdout )
+	
+	end
+	
+end
+<<

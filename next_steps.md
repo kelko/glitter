@@ -3,11 +3,12 @@ Next Steps
 
 To Develop
 -----------
-- here documents
 - header / footer functionality
+- global parameters passing
 
 To Test
 -----------
+- here documents
 
 
 Ideas

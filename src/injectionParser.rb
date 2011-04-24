@@ -1,7 +1,3 @@
-require 'exceptions.rb'
-require 'expressions.rb'
-require 'assignmentParser.rb'
-
 class InjectionParser
 	
 	attr_accessor :processor

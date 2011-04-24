@@ -1,6 +1,3 @@
-require 'exceptions.rb'
-require 'expressions.rb'
-
 class TemplateProcessor
 
 	attr_accessor :fileProcessor
@@ -49,7 +46,6 @@ class TemplateProcessor
 			expression = expandCompoundVarName($1, injectionValues)
 			
 			unless expression.is_a?(SimpleExpression)
-				p expression
 				raise OnlySimpleExpressionsHere
 			end
 			
@@ -85,36 +81,156 @@ class TemplateProcessor
 	
 end
 
+class AllBodyTemplateParser
+	attr_accessor :processor
+	
+	def initialize(lineBuffer)
+		@lineBuffer = lineBuffer
+	end
+	
+	def eofFound
+	end
+	
+	def parse(line, words)
+		@lineBuffer << line
+	end
+end
+
+class HBFTemplateParser
+
+	attr_accessor :processor
+	
+	def initialize(lineBuffer, markerExpansion = "")
+		@markerExpansion = markerExpansion
+		@lineBuffer = lineBuffer
+	end
+	
+	def eofFound
+		raise WTF
+	end
+	
+	def parse(line, words)
+		
+		if line =~ /^<<(\w*)\s*$/
+			gotExpansion = $1
+			
+			if @markerExpansion == gotExpansion
+				@processor.quoteMode = false
+				@processor.dropParser
+				return
+			
+			end
+		end
+		
+		
+		@lineBuffer << line
+	end
+	
+	
+end
+
+
 class TemplateParser
 
 	attr_accessor :processor
 	
 	def initialize
-		@stringBuffer = []
+		@header = []
+		@body = []
+		@footer = []
+		@firstLine = true
 	end
 
 	def eofFound
 		
 		tProcessor = TemplateProcessor.new
 		tProcessor.fileProcessor = @processor
-		iter = 1
 		
-		@processor.injectionValues.each do |valueSet|
-			
-			tProcessor.injectionValues = valueSet
-			
-			@stringBuffer.each do |line|
-				tProcessor.process line
-			end
-			
-			iter = iter.succ			
-		end
+		writeHeader(tProcessor)
+		writeBody(tProcessor)
+		writeFooter(tProcessor)
 		
 	end
 	
 	def parse(line, words)
-		@stringBuffer << line
+	
+		case words[0]
+			
+			when "header:"
+				setupHBFParser(line, words, @header)
+
+			when "body:"
+				setupHBFParser(line, words, @body)
+				
+			when "footer:"
+				
+				if @firstLine
+					raise WTF
+					
+				else
+					setupHBFParser(line, words, @footer)
+					
+				end
+			
+			else
+				if @firstLine 
+					setupAllBodyParser(line, words)
+					
+				else
+					raise WTF
+				end
+			
+		end
+		
+		@firstLine = false
 	end
 	
+	def setupAllBodyParser(line, words)
+		newParser = AllBodyTemplateParser.new(@body)
+		
+		@processor.quoteMode = true
+		@processor.registerParser newParser
+		
+		newParser.parse(line, words)
+	end
 	
+	def setupHBFParser(line, words, lineBuffer)
+		if words[1] =~ /(\w*)>>/
+			markerExpansion = $1
+			
+			newParser = HBFTemplateParser.new(
+					lineBuffer,
+					markerExpansion)
+
+			@processor.quoteMode = true
+			@processor.registerParser newParser
+
+		else
+			raise WTF
+		end
+	
+	end
+	
+	def writeHeader(tProcessor)
+		process(tProcessor, @processor.injectionValues[0], @header)
+	end
+	
+	def writeBody(tProcessor)
+		@processor.injectionValues.each do |valueSet|
+			process(tProcessor, valueSet, @body)
+		end
+	end
+	
+	def writeFooter(tProcessor)
+		process(tProcessor, @processor.injectionValues[0], @footer)
+	end
+	
+	def process(tProcessor, valueSet, lines) 
+		tProcessor.injectionValues = valueSet
+
+		lines.each do |line|
+			tProcessor.process line
+		end
+	end
+
 end

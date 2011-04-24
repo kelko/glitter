@@ -1,7 +1,3 @@
-require 'exceptions.rb'
-require 'localParser.rb'
-require 'skipParser.rb'
-
 class IfParser
 
 	attr_accessor :processor

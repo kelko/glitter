@@ -1,8 +1,3 @@
-require 'exceptions'
-require 'basicStructureParser.rb'
-require 'fileProcessor.rb'
-require 'pathname'
-
 class Glitter
 
 	def initialize

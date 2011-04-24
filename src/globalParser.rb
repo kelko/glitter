@@ -1,5 +1,3 @@
-require 'exceptions.rb'
-
 class GlobalParser
 
 	attr_accessor :processor

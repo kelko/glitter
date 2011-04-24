@@ -1,8 +1,3 @@
-require 'exceptions.rb'
-require 'expressions.rb'
-require 'loadParser.rb'
-
-
 class LoadAssignmentParser
 
 	attr_accessor :processor
@@ -49,6 +44,10 @@ class LoadAssignmentParser
 			
 			when "{"
 				parseCompound(variable)
+			
+			when /(\w*)>>/
+				expansion = $1
+				parseHereDocument(variable, expansion)
 		
 			when /"(.*[^\\])"/, /'(.*[^\\])'/
 				value = $1
@@ -65,7 +64,6 @@ class LoadAssignmentParser
 			when /(\d+)/
 				value = Integer($1)
 				setVariable(variable, value)
-				
 				
 			else
 				raise WTF
@@ -94,6 +92,13 @@ class LoadAssignmentParser
 		sE.value = value
 		
 		@values[varName] = sE
+	end
+	
+	def parseHereDocument(varName, markerExpansion = "")
+		sExp = SimpleExpression.new
+		@values[varName] = sExp;
+		
+		@processor.registerParser HereDocumentParser.new(sExp, markerExpansion)
 	end
 	
 	def parseCompound(varName)

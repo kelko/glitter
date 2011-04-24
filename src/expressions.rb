@@ -1,5 +1,3 @@
-require 'quoteParser.rb'
-
 class NullExpression
 
 	def evaluate

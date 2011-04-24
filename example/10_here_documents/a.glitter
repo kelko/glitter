@@ -3,7 +3,7 @@
 
 msg: >>
 This is a so called "Here Document".
-A Multi-Line-String. The end must a single line with only the end delimiter
+A Multi-Line-String. The end must be a single line with only the end delimiter
 <<
 
 customEnd: x>>
@@ -14,15 +14,13 @@ For example because of the "x" I added I can write the following line inside thi
 And no, it's not ended! It will end now:
 <<x
 
-end
-
 - injection -
 	{
 		Message: msg
-		Exp: explanation
+		Exp: customEnd
 	}
 
 - template -
-*{msg}
+*{Message}
 
-*{explanation}
+*{Exp}

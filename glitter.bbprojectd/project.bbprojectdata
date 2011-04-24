@@ -14,17 +14,19 @@
 				<string>A35BBFB7-B72B-41CA-BAC3-D10E165D940A</string>
 				<string>A13A71E9-C3E8-4618-B629-2DA2C5D8CA1D</string>
 				<string>3FCAD816-E91B-48CC-B4D1-2C3C06048EF6</string>
-				<string>8CDB6728-5A92-4A66-BA0B-FDB8309B13C4</string>
 				<string>92A7DF80-119D-477D-A99E-AEC5889091EA</string>
 				<string>5E2A2488-E5F7-4C9E-8774-85D84F4AE066</string>
 				<string>7CCF5337-F7E4-47ED-87DD-55D5C3E87968</string>
 				<string>8F63C40B-3FDF-4E5C-9E31-B9678571D581</string>
 				<string>176E270A-BD43-4741-A7D0-430EF5830214</string>
+				<string>E271F701-225F-43A6-8881-6D5B25E156FD</string>
 				<string>1479A578-6DF9-4B39-A997-3CC83954EA57</string>
 				<string>CDEFEDCD-6FB1-4CB2-807B-B9EF4D9701AB</string>
 				<string>43E5CFF5-F72B-43C6-ABFC-BA787FF41661</string>
 				<string>E6BC0F56-6DF8-419B-9E82-6F43579B25FE</string>
+				<string>EA39853F-8621-4285-A1F4-F3281BCE1FB1</string>
 				<string>0A712DE4-5070-41FA-A6FF-08DBB66D29A3</string>
+				<string>AF6AD933-F398-46E6-BA8B-B4B7B89D8829</string>
 			</array>
 		</dict>
 		<dict>
@@ -34,114 +36,147 @@
 			<array>
 				<dict>
 					<key>CollectionID</key>
-					<string>A7A8C317-39E6-4CF0-8332-A683C4F52215</string>
+					<string>DA99D5A3-77C5-4A59-8B0D-01053F0759F3</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>63EB792B-28DF-40B2-9DD1-AAC971949519</string>
-						<string>6BA9481C-C2D6-4B09-92FF-1B63A7D366A5</string>
+						<string>EC601E9D-F4DC-4400-9DC5-40A4D8B394A3</string>
+						<string>B84F2E99-CE2E-4AEF-A2B2-3E058643B1B8</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>85C4049E-20FD-4124-B310-9CF30FB39747</string>
+					<string>906EB230-05D7-4AAF-B2DC-8A006A600ED7</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>A73D9B1D-7DA6-4CE6-9B11-6E160486E7A2</string>
-						<string>BE0870D0-8C6F-42C4-A07B-A778AF198966</string>
-						<string>F0CC1D14-A28E-474B-8B22-96D4FC864BAD</string>
+						<string>C6D47601-882F-4C72-835B-20F6340C5EAE</string>
+						<string>8D401E4A-AAE7-4B74-8D55-E08925B2DFF6</string>
+						<string>35532EDD-D4DD-4759-BE2C-CE24B831D7DD</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>C5C36E43-9A5E-4381-BA82-4569BFCDDD48</string>
+					<string>66811D2F-8BD8-41C8-9332-19E34FAC9740</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>3A1877B5-8468-40CA-AF86-373165CEF671</string>
-						<string>3714B94F-8478-4ACE-8E82-F6022160A0A7</string>
-						<string>2F7EE3AC-15CA-4C76-BD8B-296B6ACB7983</string>
+						<string>0B744AFE-7F26-4EA4-BD6C-F4778E70293B</string>
+						<string>E1B2BBFE-1539-4720-8E9C-B8E3AB6D8FD1</string>
+						<string>617BBFA2-587D-4D39-893B-8FF0B207AB20</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>DA9C1DC2-2A85-45E1-B85B-31C534454EEA</string>
+					<string>82A80F12-3DDC-4839-9E0E-716F721E550A</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>0A86112D-6752-4039-BE08-7B565D368A47</string>
-						<string>13158C68-E09B-4DCC-835D-A5256E6231CF</string>
-						<string>C430EB00-5B1F-4EB0-8777-17CBFC3C5FBC</string>
+						<string>C835FE44-8187-48CD-A735-FDC3D1DA5F89</string>
+						<string>3E0F872E-21DC-4EF3-8AB1-63EDBD2DF533</string>
+						<string>722B9415-A8BF-4264-ABB6-F7AB04145796</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>CCD6E5BA-75AE-4BA6-8A92-7A46FB3D2017</string>
+					<string>174840C2-EA3D-46E6-91F2-E7C52554E940</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>A40889C4-28FB-44EE-9F19-E9DB7967ECB4</string>
-						<string>D1EC45A7-0930-4BE4-B11D-0B66CA11369A</string>
-						<string>A94FE46E-DCB1-43BA-B26B-A48B4E769E5E</string>
+						<string>265D146A-2D85-4E99-92CA-AF72BFFD031D</string>
+						<string>D5BE9CA8-6DF6-4AAE-B2D0-D6B0D1419297</string>
+						<string>EEAEFEB7-B274-4205-8B8D-1227E290C825</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>2706F470-44AF-4FAF-A8E9-E08BF396B26B</string>
+					<string>6049CAD7-6582-494F-99B7-65AA891FD756</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>84EB9372-2BED-49C6-BF3D-E6AC6259CF99</string>
-						<string>51CEBE0B-AD66-4F6E-BDA2-57AD8B5DCF95</string>
-						<string>6000B447-06DE-4C5A-8F89-163D0070211F</string>
-						<string>CEC8969D-03EE-4DBC-9E9F-546D48F3369C</string>
-						<string>280A260E-B4D6-4353-B528-3E03BC300473</string>
-						<string>9F54A5E2-6C8F-4BA9-8284-6E06B01EBD3B</string>
-						<string>EB4CA700-410A-4ECC-8463-F4165BE338D7</string>
-						<string>0D269BE8-0E8D-4A6B-AC8D-4D89717A7E05</string>
-						<string>44CB6DF6-560B-469E-AF49-B8DA0BD0FFBC</string>
+						<string>DB160F63-00C4-4743-BD92-6B2E434B4027</string>
+						<string>ADB95B2D-ABB5-42EB-B63A-36BD98C1CA8C</string>
+						<string>8568CCF6-8006-4863-AE75-29CE250C2251</string>
+						<string>9EC7F00D-6768-4FE5-82D3-E9A8E5E8CB04</string>
+						<string>BEFC8D7A-77F4-4B88-8A31-D1D37E4E84F5</string>
+						<string>7EB10F01-A046-45A7-876A-345AE7F44E31</string>
+						<string>98DCADC0-41E9-4E54-A93F-F0467F895FC6</string>
+						<string>DD18E461-F4E5-4CBB-81F4-D318CC84DF0D</string>
+						<string>4497EA04-53BF-4488-AF43-26D519CD4CF3</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>417AB9E6-97F3-45C1-8EAE-5DA41A59E40D</string>
+					<string>774B5220-0EE0-48C4-8E7B-1731085E5E15</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>B0B6D3E0-011F-42D3-96EC-6D7D944AB38F</string>
-						<string>4C420CE0-F4E5-4689-ADDC-D8B15718059D</string>
-						<string>B933DC9E-9FB9-4D52-A073-76D80F189DE7</string>
-						<string>8A330FD6-6F07-46AD-980E-93C216F23AED</string>
+						<string>FB130A04-ADB1-4D82-9C21-2D2FEEA89409</string>
+						<string>1579AAAF-6BFC-4BF8-B7FE-F667E172548E</string>
+						<string>2E48F926-3426-48D9-A2C5-2D2D46833E35</string>
+						<string>184A1AFB-1317-4E86-8264-308FE86B1ED8</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>800C97FD-8F12-48CD-8236-6F2343D447E2</string>
+					<string>E7D0AD58-1C87-43E2-803B-56CF3FD6BFE2</string>
 					<key>CollectionItems</key>
 					<array/>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>E2A921B1-5888-499A-A5EE-81C42E72CF47</string>
+					<string>14F65E26-42B2-45A3-854E-B0865962B089</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>EEAB7E49-BB84-41F2-9D65-54676EE9CC6B</string>
+						<string>215F5632-5D18-4B4B-B2DB-DEE0D5033CB3</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>63D19E26-5A23-446A-B44C-C00C7FD2F497</string>
+					<string>DCDEA45E-CB3E-4A48-9212-C0947670CCB1</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>5FB9AF68-BF40-4AFD-A484-EB0E966B5582</string>
+						<string>BDD45117-118C-43E7-B07E-D7BAFA07966E</string>
 					</array>
 				</dict>
 				<dict>
 					<key>CollectionID</key>
-					<string>801FD904-C692-4027-956A-74FF792BD3E9</string>
+					<string>1EDB1E16-CBCF-456A-968E-8FA61558D88B</string>
 					<key>CollectionItems</key>
 					<array>
-						<string>A0BA92F5-A814-4A31-9FCF-0951D6C93C9C</string>
+						<string>E4DF1A5A-63D6-4F1B-95C9-27C6328D0314</string>
+					</array>
+				</dict>
+				<dict>
+					<key>CollectionID</key>
+					<string>464710C3-1C88-4005-807A-ADDFF17C5EE9</string>
+					<key>CollectionItems</key>
+					<array>
+						<string>37E8071B-7633-4304-9F5B-DACBDBF71FA1</string>
 					</array>
 				</dict>
 			</array>
 		</dict>
-		<string>6A9BC3D8-C51D-4BB0-BEB7-36EE1A9A8BE4</string>
+		<string>ADE40CD3-0629-4986-9273-C6B89C7AC141</string>
 		<string>64EB14F0-A87A-419D-935E-CA6934F11473</string>
+		<dict>
+			<key>CollectionID</key>
+			<string>361FD181-AF59-463E-9A5B-E8DBF16AFB3E</string>
+			<key>CollectionItems</key>
+			<array>
+				<dict>
+					<key>CollectionID</key>
+					<string>33ED3B9D-EB10-451A-A94B-D9818B7C2DCC</string>
+					<key>CollectionItems</key>
+					<array>
+						<string>A2CF1D60-0D59-4EA0-8899-78DA849BAF0D</string>
+						<string>241A70E0-C1C2-4A95-B5AF-82B119B57123</string>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>CollectionID</key>
+			<string>95EC11EA-7AEF-44E7-B0B9-5DF761A64555</string>
+			<key>CollectionItems</key>
+			<array>
+				<string>8383A355-F44C-4E55-A391-89758163D4C3</string>
+				<string>C0ECCCC1-C70C-44C6-8B81-D0040BCAF91B</string>
+			</array>
+		</dict>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -179,40 +214,6 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>0A86112D-6752-4039-BE08-7B565D368A47</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzwJYS5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DPcnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACDA0X3F1b3RlABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzwADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDRfcXVvdGU6AGEuZ2xpdHRlcgAA
-				DgAUAAkAYQAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
-				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
-				eS9nbGl0dGVyL2V4YW1wbGUvMDRfcXVvdGUvYS5nbGl0
-				dGVyAAATAAEvAAAVAAIADP//AAA=
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/04_quote/a.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/04_quote/a.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>a.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
 		<key>0AA898F1-FEA4-470D-B1A8-0A818C9745C2</key>
 		<dict>
 			<key>ItemData</key>
@@ -247,72 +248,37 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>0D269BE8-0E8D-4A6B-AC8D-4D89717A7E05</key>
+		<key>0B744AFE-7F26-4EA4-BD6C-F4778E70293B</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGyAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QObG9hZGluZzMuZ2xvc3MA
+				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzgJYS5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DTMnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBNTGlvbjpVc2Vy
+				AAAAAAAAAAAAAAAAAAAAAA7DOcnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACDAzX2xvY2FsABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzgADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
 				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAbG9hZGluZzMuZ2xv
-				c3MAAA4AHgAOAGwAbwBhAGQAaQBuAGcAMwAuAGcAbABv
-				AHMAcwAPAAoABABMAGkAbwBuABIAQVVzZXJzL2tlbGtv
-				L0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvZXhhbXBsZS8w
-				Nl9sb2FkL2xvYWRpbmczLmdsb3NzAAATAAEvAAAVAAIA
-				DP//AAA=
+				cjoAZXhhbXBsZToAMDNfbG9jYWw6AGEuZ2xpdHRlcgAA
+				DgAUAAkAYQAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
+				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
+				eS9nbGl0dGVyL2V4YW1wbGUvMDNfbG9jYWwvYS5nbGl0
+				dGVyAAATAAEvAAAVAAIADP//AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/loading3.gloss</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/03_local/a.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/06_load/loading3.gloss</string>
+				<string>./example/03_local/a.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>loading3.gloss</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>13158C68-E09B-4DCC-835D-A5256E6231CF</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGaAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzwIa2Vsa28uY3YAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DPsnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACDA0X3F1b3RlABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzwADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDRfcXVvdGU6AGtlbGtvLmN2AA4A
-				EgAIAGsAZQBsAGsAbwAuAGMAdgAPAAoABABMAGkAbwBu
-				ABIAPFVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2ds
-				aXR0ZXIvZXhhbXBsZS8wNF9xdW90ZS9rZWxrby5jdgAT
-				AAEvAAAVAAIADP//AAA=
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/04_quote/kelko.cv</string>
-				<key>RelativePath</key>
-				<string>./example/04_quote/kelko.cv</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>kelko.cv</string>
+			<string>a.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
@@ -349,6 +315,60 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
+		<key>14F65E26-42B2-45A3-854E-B0865962B089</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>09_computed_vals</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>1579AAAF-6BFC-4BF8-B7FE-F667E172548E</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGiAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw04JYi5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DUMnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
+				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
+				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAEpMaW9uOlVz
+				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
+				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGIuZ2xpdHRl
+				cgAOABQACQBiAC4AZwBsAGkAdAB0AGUAcgAPAAoABABM
+				AGkAbwBuABIAPlVzZXJzL2tlbGtvL0RldmVsb3Blci9y
+				dWJ5L2dsaXR0ZXIvZXhhbXBsZS8wN19pbXBvcnQvYi5n
+				bGl0dGVyABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/b.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/07_import/b.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>b.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>174840C2-EA3D-46E6-91F2-E7C52554E940</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>05_if</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
 		<key>176E270A-BD43-4741-A7D0-430EF5830214</key>
 		<dict>
 			<key>ItemData</key>
@@ -383,6 +403,87 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
+		<key>184A1AFB-1317-4E86-8264-308FE86B1ED8</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHCAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw04RaW1wb3J0ZWQxLmdsaXR0
+				ZXIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DUsnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
+				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
+				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAFJMaW9uOlVz
+				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
+				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGltcG9ydGVk
+				MS5nbGl0dGVyAA4AJAARAGkAbQBwAG8AcgB0AGUAZAAx
+				AC4AZwBsAGkAdAB0AGUAcgAPAAoABABMAGkAbwBuABIA
+				RlVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0
+				ZXIvZXhhbXBsZS8wN19pbXBvcnQvaW1wb3J0ZWQxLmds
+				aXR0ZXIAEwABLwAAFQACAAz//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/imported1.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/07_import/imported1.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>imported1.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>1EDB1E16-CBCF-456A-968E-8FA61558D88B</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>11_double_expansion</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>215F5632-5D18-4B4B-B2DB-DEE0D5033CB3</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAG4AAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAVi/EJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABWL88nYqsRURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAEDA5X2NvbXB1dGVk
+				X3ZhbHMAEAAIAADJjZsDAAAAEQAIAADJ2I6kAAAAAQAc
+				ABWL8QAOwy8ADsL1AA7CKwAOwioABMm9AACzCQACAFFM
+				aW9uOlVzZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5
+				OgBnbGl0dGVyOgBleGFtcGxlOgAwOV9jb21wdXRlZF92
+				YWxzOgBhLmdsaXR0ZXIAAA4AFAAJAGEALgBnAGwAaQB0
+				AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBFVXNlcnMva2Vs
+				a28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9leGFtcGxl
+				LzA5X2NvbXB1dGVkX3ZhbHMvYS5nbGl0dGVyAAATAAEv
+				AAAVAAIADP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/09_computed_vals/a.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/09_computed_vals/a.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>a.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
 		<key>2195391D-E162-45C4-B352-61A42616BD7B</key>
 		<dict>
 			<key>ItemData</key>
@@ -392,73 +493,98 @@
 			<key>ItemType</key>
 			<string>StaticCollection</string>
 		</dict>
-		<key>2706F470-44AF-4FAF-A8E9-E08BF396B26B</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>06_load</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-		</dict>
-		<key>280A260E-B4D6-4353-B528-3E03BC300473</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QJZS5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DScnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAZS5nbGl0dGVyAA4A
-				FAAJAGUALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
-				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
-				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvZS5nbGl0dGVy
-				ABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/e.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/06_load/e.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>e.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>2F7EE3AC-15CA-4C76-BD8B-296B6ACB7983</key>
+		<key>241A70E0-C1C2-4A95-B5AF-82B119B57123</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
 				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzgJYy5nbGl0dGVyAAAAAAAA
+				AAAAAADJjakTSCsAAAAVlCIJcGFyc2VyLnJiAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DO8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACDAzX2xvY2FsABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzgADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDNfbG9jYWw6AGMuZ2xpdHRlcgAA
-				DgAUAAkAYwAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
-				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
-				eS9nbGl0dGVyL2V4YW1wbGUvMDNfbG9jYWwvYy5nbGl0
-				dGVyAAATAAEvAAAVAAIADP//AAA=
+				AAAAAAAAAAAAAAAAAAAAABWT/sX9qrVTTUxkU01VTP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABXRvb2xzAAAQAAgA
+				AMmNmwMAAAARAAgAAMX9jpUAAAABACAAFZQiABWUIAAO
+				w1gADsL1AA7CKwAOwioABMm9AACzCQACAElMaW9uOlVz
+				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
+				dGVyOgBzcmM6AGtlbGtvOgB0b29sczoAcGFyc2VyLnJi
+				AAAOABQACQBwAGEAcgBzAGUAcgAuAHIAYgAPAAoABABM
+				AGkAbwBuABIAPFVzZXJzL2tlbGtvL0RldmVsb3Blci9y
+				dWJ5L2dsaXR0ZXIvc3JjL2tlbGtvL3Rvb2xzL3BhcnNl
+				ci5yYgATAAEvAAAVAAIADP//AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/03_local/c.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/kelko/tools/parser.rb</string>
 				<key>RelativePath</key>
-				<string>./example/03_local/c.glitter</string>
+				<string>./src/kelko/tools/parser.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>parser.rb</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>265D146A-2D85-4E99-92CA-AF72BFFD031D</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGWAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0AJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DQcnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABTA1X2lmAAAQAAgA
+				AMmNmwMAAAARAAgAAMnHtiMAAAABABwADsNAAA7DLwAO
+				wvUADsIrAA7CKgAEyb0AALMJAAIARkxpb246VXNlcnM6
+				AGtlbGtvOgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6
+				AGV4YW1wbGU6ADA1X2lmOgBhLmdsaXR0ZXIADgAUAAkA
+				YQAuAGcAbABpAHQAdABlAHIADwAKAAQATABpAG8AbgAS
+				ADpVc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVieS9nbGl0
+				dGVyL2V4YW1wbGUvMDVfaWYvYS5nbGl0dGVyABMAAS8A
+				ABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/05_if/a.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/05_if/a.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>a.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>2E48F926-3426-48D9-A2C5-2D2D46833E35</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGiAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw04JYy5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DUcnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
+				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
+				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAEpMaW9uOlVz
+				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
+				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGMuZ2xpdHRl
+				cgAOABQACQBjAC4AZwBsAGkAdAB0AGUAcgAPAAoABABM
+				AGkAbwBuABIAPlVzZXJzL2tlbGtvL0RldmVsb3Blci9y
+				dWJ5L2dsaXR0ZXIvZXhhbXBsZS8wN19pbXBvcnQvYy5n
+				bGl0dGVyABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/c.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/07_import/c.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -469,64 +595,84 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>3714B94F-8478-4ACE-8E82-F6022160A0A7</key>
+		<key>33ED3B9D-EB10-451A-A94B-D9818B7C2DCC</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>tools</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
+		<key>35532EDD-D4DD-4759-BE2C-CE24B831D7DD</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzgJYi5nbGl0dGVyAAAAAAAA
+				AAAAAAHGAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzQJYy5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DOsnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACDAzX2xvY2FsABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzgADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDNfbG9jYWw6AGIuZ2xpdHRlcgAA
-				DgAUAAkAYgAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
-				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
-				eS9nbGl0dGVyL2V4YW1wbGUvMDNfbG9jYWwvYi5nbGl0
-				dGVyAAATAAEvAAAVAAIADP//AAA=
+				AAAAAAAAAAAAAAAAAAAAAA7DN8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAFTAyX211bHRpcGxl
+				X2luamVjdGlvbgAAEAAIAADJjZsDAAAAEQAIAADJx7Yj
+				AAAAAQAcAA7DNAAOwy8ADsL1AA7CKwAOwioABMm9AACz
+				CQACAFZMaW9uOlVzZXJzOgBrZWxrbzoARGV2ZWxvcGVy
+				OgBydWJ5OgBnbGl0dGVyOgBleGFtcGxlOgAwMl9tdWx0
+				aXBsZV9pbmplY3Rpb246AGMuZ2xpdHRlcgAOABQACQBj
+				AC4AZwBsAGkAdAB0AGUAcgAPAAoABABMAGkAbwBuABIA
+				SlVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0
+				ZXIvZXhhbXBsZS8wMl9tdWx0aXBsZV9pbmplY3Rpb24v
+				Yy5nbGl0dGVyABMAAS8AABUAAgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/03_local/b.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/02_multiple_injection/c.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/03_local/b.glitter</string>
+				<string>./example/02_multiple_injection/c.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>b.glitter</string>
+			<string>c.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>3A1877B5-8468-40CA-AF86-373165CEF671</key>
+		<key>361FD181-AF59-463E-9A5B-E8DBF16AFB3E</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>kelko</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
+		<key>37E8071B-7633-4304-9F5B-DACBDBF71FA1</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzgJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAG0AAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAVkfsJYS5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DOcnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACDAzX2xvY2FsABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzgADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDNfbG9jYWw6AGEuZ2xpdHRlcgAA
-				DgAUAAkAYQAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
-				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
-				eS9nbGl0dGVyL2V4YW1wbGUvMDNfbG9jYWwvYS5nbGl0
-				dGVyAAATAAEvAAAVAAIADP//AAA=
+				AAAAAAAAAAAAAAAAAAAAABWR/cnYxyFURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAADzEyX2hiZl90ZW1w
+				bGF0ZQAAEAAIAADJjZsDAAAAEQAIAADJ2KsBAAAAAQAc
+				ABWR+wAOwy8ADsL1AA7CKwAOwioABMm9AACzCQACAFBM
+				aW9uOlVzZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5
+				OgBnbGl0dGVyOgBleGFtcGxlOgAxMl9oYmZfdGVtcGxh
+				dGU6AGEuZ2xpdHRlcgAOABQACQBhAC4AZwBsAGkAdAB0
+				AGUAcgAPAAoABABMAGkAbwBuABIARFVzZXJzL2tlbGtv
+				L0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvZXhhbXBsZS8x
+				Ml9oYmZfdGVtcGxhdGUvYS5nbGl0dGVyABMAAS8AABUA
+				AgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/03_local/a.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/12_hbf_template/a.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/03_local/a.glitter</string>
+				<string>./example/12_hbf_template/a.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -534,6 +680,40 @@
 			</dict>
 			<key>ItemName</key>
 			<string>a.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>3E0F872E-21DC-4EF3-8AB1-63EDBD2DF533</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGaAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzwIa2Vsa28uY3YAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DPsnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACDA0X3F1b3RlABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzwADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDRfcXVvdGU6AGtlbGtvLmN2AA4A
+				EgAIAGsAZQBsAGsAbwAuAGMAdgAPAAoABABMAGkAbwBu
+				ABIAPFVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2ds
+				aXR0ZXIvZXhhbXBsZS8wNF9xdW90ZS9rZWxrby5jdgAT
+				AAEvAAAVAAIADP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/04_quote/kelko.cv</string>
+				<key>RelativePath</key>
+				<string>./example/04_quote/kelko.cv</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>kelko.cv</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
@@ -571,15 +751,6 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>417AB9E6-97F3-45C1-8EAE-5DA41A59E40D</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>07_import</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-		</dict>
 		<key>43E5CFF5-F72B-43C6-ABFC-BA787FF41661</key>
 		<dict>
 			<key>ItemData</key>
@@ -613,7 +784,7 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>44CB6DF6-560B-469E-AF49-B8DA0BD0FFBC</key>
+		<key>4497EA04-53BF-4488-AF43-26D519CD4CF3</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -648,73 +819,14 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>4C420CE0-F4E5-4689-ADDC-D8B15718059D</key>
+		<key>464710C3-1C88-4005-807A-ADDFF17C5EE9</key>
 		<dict>
 			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGiAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw04JYi5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DUMnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
-				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
-				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAEpMaW9uOlVz
-				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
-				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGIuZ2xpdHRl
-				cgAOABQACQBiAC4AZwBsAGkAdAB0AGUAcgAPAAoABABM
-				AGkAbwBuABIAPlVzZXJzL2tlbGtvL0RldmVsb3Blci9y
-				dWJ5L2dsaXR0ZXIvZXhhbXBsZS8wN19pbXBvcnQvYi5n
-				bGl0dGVyABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/b.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/07_import/b.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
+			<array/>
 			<key>ItemName</key>
-			<string>b.glitter</string>
+			<string>12_hbf_template</string>
 			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>51CEBE0B-AD66-4F6E-BDA2-57AD8B5DCF95</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QJYi5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DRsnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAYi5nbGl0dGVyAA4A
-				FAAJAGIALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
-				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
-				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvYi5nbGl0dGVy
-				ABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/b.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/06_load/b.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>b.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
+			<string>StaticCollection</string>
 		</dict>
 		<key>5E2A2488-E5F7-4C9E-8774-85D84F4AE066</key>
 		<dict>
@@ -749,65 +861,39 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>5FB9AF68-BF40-4AFD-A484-EB0E966B5582</key>
+		<key>6049CAD7-6582-494F-99B7-65AA891FD756</key>
 		<dict>
 			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAG6AAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOxJsJYS5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7EnsnH3+JURVhUUipjaP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAETEwX2hlcmVfZG9j
-				dW1lbnRzAAAQAAgAAMmNmwMAAAARAAgAAMnHw8IAAAAB
-				ABwADsSbAA7DLwAOwvUADsIrAA7CKgAEyb0AALMJAAIA
-				Ukxpb246VXNlcnM6AGtlbGtvOgBEZXZlbG9wZXI6AHJ1
-				Ynk6AGdsaXR0ZXI6AGV4YW1wbGU6ADEwX2hlcmVfZG9j
-				dW1lbnRzOgBhLmdsaXR0ZXIADgAUAAkAYQAuAGcAbABp
-				AHQAdABlAHIADwAKAAQATABpAG8AbgASAEZVc2Vycy9r
-				ZWxrby9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4YW1w
-				bGUvMTBfaGVyZV9kb2N1bWVudHMvYS5nbGl0dGVyABMA
-				AS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/10_here_documents/a.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/10_here_documents/a.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
+			<array/>
 			<key>ItemName</key>
-			<string>a.glitter</string>
+			<string>06_load</string>
 			<key>ItemType</key>
-			<string>FileReference</string>
+			<string>StaticCollection</string>
 		</dict>
-		<key>6000B447-06DE-4C5A-8F89-163D0070211F</key>
+		<key>617BBFA2-587D-4D39-893B-8FF0B207AB20</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QJYy5nbGl0dGVyAAAAAAAA
+				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzgJYy5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DR8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				AAAAAAAAAAAAAAAAAAAAAA7DO8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACDAzX2xvY2FsABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzgADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
 				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAYy5nbGl0dGVyAA4A
-				FAAJAGMALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
-				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
-				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvYy5nbGl0dGVy
-				ABMAAS8AABUAAgAM//8AAA==
+				cjoAZXhhbXBsZToAMDNfbG9jYWw6AGMuZ2xpdHRlcgAA
+				DgAUAAkAYwAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
+				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
+				eS9nbGl0dGVyL2V4YW1wbGUvMDNfbG9jYWwvYy5nbGl0
+				dGVyAAATAAEvAAAVAAIADP//AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/c.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/03_local/c.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/06_load/c.glitter</string>
+				<string>./example/03_local/c.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -815,52 +901,6 @@
 			</dict>
 			<key>ItemName</key>
 			<string>c.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>63D19E26-5A23-446A-B44C-C00C7FD2F497</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>10_here_documents</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>63EB792B-28DF-40B2-9DD1-AAC971949519</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHAAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzEJYS5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DMsnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAEzAxX3NpbmdsZV9p
-				bmplY3Rpb24AABAACAAAyY2bAwAAABEACAAAyce2IwAA
-				AAEAHAAOwzEADsMvAA7C9QAOwisADsIqAATJvQAAswkA
-				AgBUTGlvbjpVc2VyczoAa2Vsa286AERldmVsb3BlcjoA
-				cnVieToAZ2xpdHRlcjoAZXhhbXBsZToAMDFfc2luZ2xl
-				X2luamVjdGlvbjoAYS5nbGl0dGVyAA4AFAAJAGEALgBn
-				AGwAaQB0AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBIVXNl
-				cnMva2Vsa28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9l
-				eGFtcGxlLzAxX3NpbmdsZV9pbmplY3Rpb24vYS5nbGl0
-				dGVyABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/01_single_injection/a.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/01_single_injection/a.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>a.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
@@ -897,73 +937,14 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>6A9BC3D8-C51D-4BB0-BEB7-36EE1A9A8BE4</key>
+		<key>66811D2F-8BD8-41C8-9332-19E34FAC9740</key>
 		<dict>
 			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGCAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwvUNbmV4dF9zdGVwcy5tZAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DV8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2dsaXR0ZXIAABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAFAAOwvUADsIr
-				AA7CKgAEyb0AALMJAAIAOkxpb246VXNlcnM6AGtlbGtv
-				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AG5leHRf
-				c3RlcHMubWQADgAcAA0AbgBlAHgAdABfAHMAdABlAHAA
-				cwAuAG0AZAAPAAoABABMAGkAbwBuABIAMFVzZXJzL2tl
-				bGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvbmV4dF9z
-				dGVwcy5tZAATAAEvAAAVAAIADP//AAA=
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/next_steps.md</string>
-				<key>RelativePath</key>
-				<string>./next_steps.md</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
+			<array/>
 			<key>ItemName</key>
-			<string>next_steps.md</string>
+			<string>03_local</string>
 			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>6BA9481C-C2D6-4B09-92FF-1B63A7D366A5</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHAAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzEJYi5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DM8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAEzAxX3NpbmdsZV9p
-				bmplY3Rpb24AABAACAAAyY2bAwAAABEACAAAyce2IwAA
-				AAEAHAAOwzEADsMvAA7C9QAOwisADsIqAATJvQAAswkA
-				AgBUTGlvbjpVc2VyczoAa2Vsa286AERldmVsb3BlcjoA
-				cnVieToAZ2xpdHRlcjoAZXhhbXBsZToAMDFfc2luZ2xl
-				X2luamVjdGlvbjoAYi5nbGl0dGVyAA4AFAAJAGIALgBn
-				AGwAaQB0AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBIVXNl
-				cnMva2Vsa28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9l
-				eGFtcGxlLzAxX3NpbmdsZV9pbmplY3Rpb24vYi5nbGl0
-				dGVyABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/01_single_injection/b.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/01_single_injection/b.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>b.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
+			<string>StaticCollection</string>
 		</dict>
 		<key>6C0F39D1-0816-4A11-8E0B-5971E7BF8516</key>
 		<dict>
@@ -971,6 +952,49 @@
 			<array/>
 			<key>ItemName</key>
 			<string>example</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
+		<key>722B9415-A8BF-4264-ABB6-F7AB04145796</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGaAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzwIbmF2YXIuY3YAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DP8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACDA0X3F1b3RlABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzwADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDRfcXVvdGU6AG5hdmFyLmN2AA4A
+				EgAIAG4AYQB2AGEAcgAuAGMAdgAPAAoABABMAGkAbwBu
+				ABIAPFVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2ds
+				aXR0ZXIvZXhhbXBsZS8wNF9xdW90ZS9uYXZhci5jdgAT
+				AAEvAAAVAAIADP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/04_quote/navar.cv</string>
+				<key>RelativePath</key>
+				<string>./example/04_quote/navar.cv</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>navar.cv</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>774B5220-0EE0-48C4-8E7B-1731085E5E15</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>07_import</string>
 			<key>ItemType</key>
 			<string>StaticCollection</string>
 		</dict>
@@ -1008,57 +1032,80 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>800C97FD-8F12-48CD-8236-6F2343D447E2</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>08_global</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-		</dict>
-		<key>801FD904-C692-4027-956A-74FF792BD3E9</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>11_double_expansion</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>84EB9372-2BED-49C6-BF3D-E6AC6259CF99</key>
+		<key>7EB10F01-A046-45A7-876A-345AE7F44E31</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAGyAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0QObG9hZGluZzEuZ2xvc3MA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DRcnH0kMAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAAA7DSsnH0kMAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
 				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBNTGlvbjpVc2Vy
 				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAYS5nbGl0dGVyAA4A
-				FAAJAGEALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
-				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
-				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvYS5nbGl0dGVy
-				ABMAAS8AABUAAgAM//8AAA==
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAbG9hZGluZzEuZ2xv
+				c3MAAA4AHgAOAGwAbwBhAGQAaQBuAGcAMQAuAGcAbABv
+				AHMAcwAPAAoABABMAGkAbwBuABIAQVVzZXJzL2tlbGtv
+				L0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvZXhhbXBsZS8w
+				Nl9sb2FkL2xvYWRpbmcxLmdsb3NzAAATAAEvAAAVAAIA
+				DP//AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/a.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/loading1.gloss</string>
 				<key>RelativePath</key>
-				<string>./example/06_load/a.glitter</string>
+				<string>./example/06_load/loading1.gloss</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>a.glitter</string>
+			<string>loading1.gloss</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>82A80F12-3DDC-4839-9E0E-716F721E550A</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>04_quote</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
+		<key>8383A355-F44C-4E55-A391-89758163D4C3</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGEAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw1gLY2xwLmdsaXR0ZXIAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABWUR8naW3JURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
+				jZsDAAAAEQAIAADJ2j9SAAAAAQAYAA7DWAAOwvUADsIr
+				AA7CKgAEyb0AALMJAAIAPUxpb246VXNlcnM6AGtlbGtv
+				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AHNyYzoA
+				Y2xwLmdsaXR0ZXIAAA4AGAALAGMAbABwAC4AZwBsAGkA
+				dAB0AGUAcgAPAAoABABMAGkAbwBuABIAMlVzZXJzL2tl
+				bGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvc3JjL2Ns
+				cC5nbGl0dGVyABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/clp.glitter</string>
+				<key>RelativePath</key>
+				<string>./src/clp.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>clp.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
@@ -1097,80 +1144,72 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>85C4049E-20FD-4124-B310-9CF30FB39747</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>02_multiple_injection</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-		</dict>
-		<key>8A330FD6-6F07-46AD-980E-93C216F23AED</key>
+		<key>8568CCF6-8006-4863-AE75-29CE250C2251</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAHCAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw04RaW1wb3J0ZWQxLmdsaXR0
-				ZXIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DUsnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
-				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
-				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAFJMaW9uOlVz
-				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
-				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGltcG9ydGVk
-				MS5nbGl0dGVyAA4AJAARAGkAbQBwAG8AcgB0AGUAZAAx
-				AC4AZwBsAGkAdAB0AGUAcgAPAAoABABMAGkAbwBuABIA
-				RlVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0
-				ZXIvZXhhbXBsZS8wN19pbXBvcnQvaW1wb3J0ZWQxLmds
-				aXR0ZXIAEwABLwAAFQACAAz//wAA
+				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0QJYy5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DR8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAYy5nbGl0dGVyAA4A
+				FAAJAGMALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
+				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvYy5nbGl0dGVy
+				ABMAAS8AABUAAgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/imported1.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/c.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/07_import/imported1.glitter</string>
+				<string>./example/06_load/c.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>imported1.glitter</string>
+			<string>c.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>8CDB6728-5A92-4A66-BA0B-FDB8309B13C4</key>
+		<key>8D401E4A-AAE7-4B74-8D55-E08925B2DFF6</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGAAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw1gKZ2xpdHRlci5yYgAAAAAA
+				AAAAAAHGAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzQJYi5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DXsnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
-				jZsDAAAAEQAIAADJx7YjAAAAAQAYAA7DWAAOwvUADsIr
-				AA7CKgAEyb0AALMJAAIAPExpb246VXNlcnM6AGtlbGtv
-				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AHNyYzoA
-				Z2xpdHRlci5yYgAOABYACgBnAGwAaQB0AHQAZQByAC4A
-				cgBiAA8ACgAEAEwAaQBvAG4AEgAxVXNlcnMva2Vsa28v
-				RGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9zcmMvZ2xpdHRl
-				ci5yYgAAEwABLwAAFQACAAz//wAA
+				AAAAAAAAAAAAAAAAAAAAAA7DNsnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAFTAyX211bHRpcGxl
+				X2luamVjdGlvbgAAEAAIAADJjZsDAAAAEQAIAADJx7Yj
+				AAAAAQAcAA7DNAAOwy8ADsL1AA7CKwAOwioABMm9AACz
+				CQACAFZMaW9uOlVzZXJzOgBrZWxrbzoARGV2ZWxvcGVy
+				OgBydWJ5OgBnbGl0dGVyOgBleGFtcGxlOgAwMl9tdWx0
+				aXBsZV9pbmplY3Rpb246AGIuZ2xpdHRlcgAOABQACQBi
+				AC4AZwBsAGkAdAB0AGUAcgAPAAoABABMAGkAbwBuABIA
+				SlVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0
+				ZXIvZXhhbXBsZS8wMl9tdWx0aXBsZV9pbmplY3Rpb24v
+				Yi5nbGl0dGVyABMAAS8AABUAAgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/glitter.rb</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/02_multiple_injection/b.glitter</string>
 				<key>RelativePath</key>
-				<string>./src/glitter.rb</string>
+				<string>./example/02_multiple_injection/b.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>glitter.rb</string>
+			<string>b.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
@@ -1207,6 +1246,15 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
+		<key>906EB230-05D7-4AAF-B2DC-8A006A600ED7</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>02_multiple_injection</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
 		<key>92A7DF80-119D-477D-A99E-AEC5889091EA</key>
 		<dict>
 			<key>ItemData</key>
@@ -1241,73 +1289,81 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>9F54A5E2-6C8F-4BA9-8284-6E06B01EBD3B</key>
+		<key>95EC11EA-7AEF-44E7-B0B9-5DF761A64555</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>template</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
+		<key>98DCADC0-41E9-4E54-A93F-F0467F895FC6</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
 				AAAAAAGyAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QObG9hZGluZzEuZ2xvc3MA
+				AAAAAADJjakTSCsAAAAOw0QObG9hZGluZzIuZ2xvc3MA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DSsnH0kMAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAAA7DS8nH0kMAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
 				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
 				AA7C9QAOwisADsIqAATJvQAAswkAAgBNTGlvbjpVc2Vy
 				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAbG9hZGluZzEuZ2xv
-				c3MAAA4AHgAOAGwAbwBhAGQAaQBuAGcAMQAuAGcAbABv
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAbG9hZGluZzIuZ2xv
+				c3MAAA4AHgAOAGwAbwBhAGQAaQBuAGcAMgAuAGcAbABv
 				AHMAcwAPAAoABABMAGkAbwBuABIAQVVzZXJzL2tlbGtv
 				L0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvZXhhbXBsZS8w
-				Nl9sb2FkL2xvYWRpbmcxLmdsb3NzAAATAAEvAAAVAAIA
+				Nl9sb2FkL2xvYWRpbmcyLmdsb3NzAAATAAEvAAAVAAIA
 				DP//AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/loading1.gloss</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/loading2.gloss</string>
 				<key>RelativePath</key>
-				<string>./example/06_load/loading1.gloss</string>
+				<string>./example/06_load/loading2.gloss</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>loading1.gloss</string>
+			<string>loading2.gloss</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>A0BA92F5-A814-4A31-9FCF-0951D6C93C9C</key>
+		<key>9EC7F00D-6768-4FE5-82D3-E9A8E5E8CB04</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAHAAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOxIsJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0QJZC5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7Ej8nH38VURVhUUipjaP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAEzExX2RvdWJsZV9l
-				eHBhbnNpb24AABAACAAAyY2bAwAAABEACAAAycfDpQAA
-				AAEAHAAOxIsADsMvAA7C9QAOwisADsIqAATJvQAAswkA
-				AgBUTGlvbjpVc2VyczoAa2Vsa286AERldmVsb3BlcjoA
-				cnVieToAZ2xpdHRlcjoAZXhhbXBsZToAMTFfZG91Ymxl
-				X2V4cGFuc2lvbjoAYS5nbGl0dGVyAA4AFAAJAGEALgBn
-				AGwAaQB0AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBIVXNl
-				cnMva2Vsa28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9l
-				eGFtcGxlLzExX2RvdWJsZV9leHBhbnNpb24vYS5nbGl0
-				dGVyABMAAS8AABUAAgAM//8AAA==
+				AAAAAAAAAAAAAAAAAAAAAA7DSMnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAZC5nbGl0dGVyAA4A
+				FAAJAGQALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
+				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvZC5nbGl0dGVy
+				ABMAAS8AABUAAgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/11_double_expansion/a.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/d.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/11_double_expansion/a.glitter</string>
+				<string>./example/06_load/d.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>a.glitter</string>
+			<string>d.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
@@ -1345,6 +1401,40 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
+		<key>A2CF1D60-0D59-4EA0-8899-78DA849BAF0D</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAVlCIIYWJvdXQucmIAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABWT/cX9qqpTTUxkU01VTP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABXRvb2xzAAAQAAgA
+				AMmNmwMAAAARAAgAAMX9jooAAAABACAAFZQiABWUIAAO
+				w1gADsL1AA7CKwAOwioABMm9AACzCQACAEhMaW9uOlVz
+				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
+				dGVyOgBzcmM6AGtlbGtvOgB0b29sczoAYWJvdXQucmIA
+				DgASAAgAYQBiAG8AdQB0AC4AcgBiAA8ACgAEAEwAaQBv
+				AG4AEgA7VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9zcmMva2Vsa28vdG9vbHMvYWJvdXQucmIA
+				ABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/kelko/tools/about.rb</string>
+				<key>RelativePath</key>
+				<string>./src/kelko/tools/about.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>about.rb</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
 		<key>A35BBFB7-B72B-41CA-BAC3-D10E165D940A</key>
 		<dict>
 			<key>ItemData</key>
@@ -1378,30 +1468,166 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>A40889C4-28FB-44EE-9F19-E9DB7967ECB4</key>
+		<key>ADB95B2D-ABB5-42EB-B63A-36BD98C1CA8C</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGWAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0AJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0QJYi5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DQcnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABTA1X2lmAAAQAAgA
-				AMmNmwMAAAARAAgAAMnHtiMAAAABABwADsNAAA7DLwAO
-				wvUADsIrAA7CKgAEyb0AALMJAAIARkxpb246VXNlcnM6
-				AGtlbGtvOgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6
-				AGV4YW1wbGU6ADA1X2lmOgBhLmdsaXR0ZXIADgAUAAkA
-				YQAuAGcAbABpAHQAdABlAHIADwAKAAQATABpAG8AbgAS
-				ADpVc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVieS9nbGl0
-				dGVyL2V4YW1wbGUvMDVfaWYvYS5nbGl0dGVyABMAAS8A
-				ABUAAgAM//8AAA==
+				AAAAAAAAAAAAAAAAAAAAAA7DRsnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAYi5nbGl0dGVyAA4A
+				FAAJAGIALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
+				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvYi5nbGl0dGVy
+				ABMAAS8AABUAAgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/05_if/a.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/b.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/05_if/a.glitter</string>
+				<string>./example/06_load/b.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>b.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>ADE40CD3-0629-4986-9273-C6B89C7AC141</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGCAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwvUNbmV4dF9zdGVwcy5tZAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DV8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2dsaXR0ZXIAABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAFAAOwvUADsIr
+				AA7CKgAEyb0AALMJAAIAOkxpb246VXNlcnM6AGtlbGtv
+				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AG5leHRf
+				c3RlcHMubWQADgAcAA0AbgBlAHgAdABfAHMAdABlAHAA
+				cwAuAG0AZAAPAAoABABMAGkAbwBuABIAMFVzZXJzL2tl
+				bGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvbmV4dF9z
+				dGVwcy5tZAATAAEvAAAVAAIADP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/next_steps.md</string>
+				<key>RelativePath</key>
+				<string>./next_steps.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>next_steps.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>AF6AD933-F398-46E6-BA8B-B4B7B89D8829</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGEAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw1gLY2xwU2V0dXAucmIAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABWVF8naXhlURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
+				jZsDAAAAEQAIAADJ2kH5AAAAAQAYAA7DWAAOwvUADsIr
+				AA7CKgAEyb0AALMJAAIAPUxpb246VXNlcnM6AGtlbGtv
+				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AHNyYzoA
+				Y2xwU2V0dXAucmIAAA4AGAALAGMAbABwAFMAZQB0AHUA
+				cAAuAHIAYgAPAAoABABMAGkAbwBuABIAMlVzZXJzL2tl
+				bGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvc3JjL2Ns
+				cFNldHVwLnJiABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/clpSetup.rb</string>
+				<key>RelativePath</key>
+				<string>./src/clpSetup.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>clpSetup.rb</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>B84F2E99-CE2E-4AEF-A2B2-3E058643B1B8</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHAAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzEJYi5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DM8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAEzAxX3NpbmdsZV9p
+				bmplY3Rpb24AABAACAAAyY2bAwAAABEACAAAyce2IwAA
+				AAEAHAAOwzEADsMvAA7C9QAOwisADsIqAATJvQAAswkA
+				AgBUTGlvbjpVc2VyczoAa2Vsa286AERldmVsb3BlcjoA
+				cnVieToAZ2xpdHRlcjoAZXhhbXBsZToAMDFfc2luZ2xl
+				X2luamVjdGlvbjoAYi5nbGl0dGVyAA4AFAAJAGIALgBn
+				AGwAaQB0AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBIVXNl
+				cnMva2Vsa28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9l
+				eGFtcGxlLzAxX3NpbmdsZV9pbmplY3Rpb24vYi5nbGl0
+				dGVyABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/01_single_injection/b.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/01_single_injection/b.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>b.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>BDD45117-118C-43E7-B07E-D7BAFA07966E</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAG6AAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOxJsJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7EnsnH3+JURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETEwX2hlcmVfZG9j
+				dW1lbnRzAAAQAAgAAMmNmwMAAAARAAgAAMnHw8IAAAAB
+				ABwADsSbAA7DLwAOwvUADsIrAA7CKgAEyb0AALMJAAIA
+				Ukxpb246VXNlcnM6AGtlbGtvOgBEZXZlbG9wZXI6AHJ1
+				Ynk6AGdsaXR0ZXI6AGV4YW1wbGU6ADEwX2hlcmVfZG9j
+				dW1lbnRzOgBhLmdsaXR0ZXIADgAUAAkAYQAuAGcAbABp
+				AHQAdABlAHIADwAKAAQATABpAG8AbgASAEZVc2Vycy9r
+				ZWxrby9EZXZlbG9wZXIvcnVieS9nbGl0dGVyL2V4YW1w
+				bGUvMTBfaGVyZV9kb2N1bWVudHMvYS5nbGl0dGVyABMA
+				AS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/10_here_documents/a.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/10_here_documents/a.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -1412,7 +1638,75 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>A73D9B1D-7DA6-4CE6-9B11-6E160486E7A2</key>
+		<key>BEFC8D7A-77F4-4B88-8A31-D1D37E4E84F5</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0QJZS5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DScnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAZS5nbGl0dGVyAA4A
+				FAAJAGUALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
+				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvZS5nbGl0dGVy
+				ABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/e.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/06_load/e.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>e.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>C0ECCCC1-C70C-44C6-8B81-D0040BCAF91B</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGYAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw1gQdGVtcGxhdGUuZ2xpdHRl
+				cgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABWUT8naW4tURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
+				jZsDAAAAEQAIAADJ2j9rAAAAAQAYAA7DWAAOwvUADsIr
+				AA7CKgAEyb0AALMJAAIAQkxpb246VXNlcnM6AGtlbGtv
+				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AHNyYzoA
+				dGVtcGxhdGUuZ2xpdHRlcgAOACIAEAB0AGUAbQBwAGwA
+				YQB0AGUALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
+				AG4AEgA3VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9zcmMvdGVtcGxhdGUuZ2xpdHRlcgAAEwAB
+				LwAAFQACAAz//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/template.glitter</string>
+				<key>RelativePath</key>
+				<string>./src/template.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>template.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>C6D47601-882F-4C72-835B-20F6340C5EAE</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -1447,73 +1741,30 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>A7A8C317-39E6-4CF0-8332-A683C4F52215</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>01_single_injection</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-		</dict>
-		<key>A94FE46E-DCB1-43BA-B26B-A48B4E769E5E</key>
+		<key>C835FE44-8187-48CD-A735-FDC3D1DA5F89</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGWAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0AJYy5nbGl0dGVyAAAAAAAA
+				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzwJYS5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DQ8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABTA1X2lmAAAQAAgA
-				AMmNmwMAAAARAAgAAMnHtiMAAAABABwADsNAAA7DLwAO
-				wvUADsIrAA7CKgAEyb0AALMJAAIARkxpb246VXNlcnM6
-				AGtlbGtvOgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6
-				AGV4YW1wbGU6ADA1X2lmOgBjLmdsaXR0ZXIADgAUAAkA
-				YwAuAGcAbABpAHQAdABlAHIADwAKAAQATABpAG8AbgAS
-				ADpVc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVieS9nbGl0
-				dGVyL2V4YW1wbGUvMDVfaWYvYy5nbGl0dGVyABMAAS8A
-				ABUAAgAM//8AAA==
+				AAAAAAAAAAAAAAAAAAAAAA7DPcnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACDA0X3F1b3RlABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzwADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDRfcXVvdGU6AGEuZ2xpdHRlcgAA
+				DgAUAAkAYQAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
+				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
+				eS9nbGl0dGVyL2V4YW1wbGUvMDRfcXVvdGUvYS5nbGl0
+				dGVyAAATAAEvAAAVAAIADP//AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/05_if/c.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/04_quote/a.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/05_if/c.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>c.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>B0B6D3E0-011F-42D3-96EC-6D7D944AB38F</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGiAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw04JYS5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DT8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
-				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
-				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAEpMaW9uOlVz
-				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
-				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGEuZ2xpdHRl
-				cgAOABQACQBhAC4AZwBsAGkAdAB0AGUAcgAPAAoABABM
-				AGkAbwBuABIAPlVzZXJzL2tlbGtvL0RldmVsb3Blci9y
-				dWJ5L2dsaXR0ZXIvZXhhbXBsZS8wN19pbXBvcnQvYS5n
-				bGl0dGVyABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/a.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/07_import/a.glitter</string>
+				<string>./example/04_quote/a.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -1523,127 +1774,6 @@
 			<string>a.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
-		</dict>
-		<key>B933DC9E-9FB9-4D52-A073-76D80F189DE7</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGiAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw04JYy5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DUcnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
-				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
-				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAEpMaW9uOlVz
-				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
-				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGMuZ2xpdHRl
-				cgAOABQACQBjAC4AZwBsAGkAdAB0AGUAcgAPAAoABABM
-				AGkAbwBuABIAPlVzZXJzL2tlbGtvL0RldmVsb3Blci9y
-				dWJ5L2dsaXR0ZXIvZXhhbXBsZS8wN19pbXBvcnQvYy5n
-				bGl0dGVyABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/c.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/07_import/c.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>c.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>BE0870D0-8C6F-42C4-A07B-A778AF198966</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHGAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzQJYi5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DNsnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAFTAyX211bHRpcGxl
-				X2luamVjdGlvbgAAEAAIAADJjZsDAAAAEQAIAADJx7Yj
-				AAAAAQAcAA7DNAAOwy8ADsL1AA7CKwAOwioABMm9AACz
-				CQACAFZMaW9uOlVzZXJzOgBrZWxrbzoARGV2ZWxvcGVy
-				OgBydWJ5OgBnbGl0dGVyOgBleGFtcGxlOgAwMl9tdWx0
-				aXBsZV9pbmplY3Rpb246AGIuZ2xpdHRlcgAOABQACQBi
-				AC4AZwBsAGkAdAB0AGUAcgAPAAoABABMAGkAbwBuABIA
-				SlVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0
-				ZXIvZXhhbXBsZS8wMl9tdWx0aXBsZV9pbmplY3Rpb24v
-				Yi5nbGl0dGVyABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/02_multiple_injection/b.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/02_multiple_injection/b.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>b.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>C430EB00-5B1F-4EB0-8777-17CBFC3C5FBC</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGaAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzwIbmF2YXIuY3YAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DP8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACDA0X3F1b3RlABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzwADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDRfcXVvdGU6AG5hdmFyLmN2AA4A
-				EgAIAG4AYQB2AGEAcgAuAGMAdgAPAAoABABMAGkAbwBu
-				ABIAPFVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2ds
-				aXR0ZXIvZXhhbXBsZS8wNF9xdW90ZS9uYXZhci5jdgAT
-				AAEvAAAVAAIADP//AAA=
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/04_quote/navar.cv</string>
-				<key>RelativePath</key>
-				<string>./example/04_quote/navar.cv</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>navar.cv</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>C5C36E43-9A5E-4381-BA82-4569BFCDDD48</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>03_local</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
-		</dict>
-		<key>CCD6E5BA-75AE-4BA6-8A92-7A46FB3D2017</key>
-		<dict>
-			<key>ItemData</key>
-			<array/>
-			<key>ItemName</key>
-			<string>05_if</string>
-			<key>ItemType</key>
-			<string>StaticCollection</string>
 		</dict>
 		<key>CDEFEDCD-6FB1-4CB2-807B-B9EF4D9701AB</key>
 		<dict>
@@ -1679,41 +1809,7 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>CEC8969D-03EE-4DBC-9E9F-546D48F3369C</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QJZC5nbGl0dGVyAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DSMnH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAZC5nbGl0dGVyAA4A
-				FAAJAGQALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
-				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
-				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvZC5nbGl0dGVy
-				ABMAAS8AABUAAgAM//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/d.glitter</string>
-				<key>RelativePath</key>
-				<string>./example/06_load/d.glitter</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>d.glitter</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>D1EC45A7-0930-4BE4-B11D-0B66CA11369A</key>
+		<key>D5BE9CA8-6DF6-4AAE-B2D0-D6B0D1419297</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -1747,25 +1843,197 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>DA9C1DC2-2A85-45E1-B85B-31C534454EEA</key>
+		<key>DA99D5A3-77C5-4A59-8B0D-01053F0759F3</key>
 		<dict>
 			<key>ItemData</key>
 			<array/>
 			<key>ItemName</key>
-			<string>04_quote</string>
+			<string>01_single_injection</string>
 			<key>ItemType</key>
 			<string>StaticCollection</string>
 		</dict>
-		<key>E2A921B1-5888-499A-A5EE-81C42E72CF47</key>
+		<key>DB160F63-00C4-4743-BD92-6B2E434B4027</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGcAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0QJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DRcnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBITGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAYS5nbGl0dGVyAA4A
+				FAAJAGEALgBnAGwAaQB0AHQAZQByAA8ACgAEAEwAaQBv
+				AG4AEgA8VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9leGFtcGxlLzA2X2xvYWQvYS5nbGl0dGVy
+				ABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/a.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/06_load/a.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>a.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>DCDEA45E-CB3E-4A48-9212-C0947670CCB1</key>
 		<dict>
 			<key>ItemData</key>
 			<array/>
 			<key>ItemName</key>
-			<string>09_computed_vals</string>
+			<string>10_here_documents</string>
 			<key>ItemType</key>
 			<string>StaticCollection</string>
 			<key>UserOverrideItemName</key>
 			<true/>
+		</dict>
+		<key>DD18E461-F4E5-4CBB-81F4-D318CC84DF0D</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGyAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0QObG9hZGluZzMuZ2xvc3MA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DTMnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBNTGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDZfbG9hZDoAbG9hZGluZzMuZ2xv
+				c3MAAA4AHgAOAGwAbwBhAGQAaQBuAGcAMwAuAGcAbABv
+				AHMAcwAPAAoABABMAGkAbwBuABIAQVVzZXJzL2tlbGtv
+				L0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvZXhhbXBsZS8w
+				Nl9sb2FkL2xvYWRpbmczLmdsb3NzAAATAAEvAAAVAAIA
+				DP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/loading3.gloss</string>
+				<key>RelativePath</key>
+				<string>./example/06_load/loading3.gloss</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>loading3.gloss</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>E1B2BBFE-1539-4720-8E9C-B8E3AB6D8FD1</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGgAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzgJYi5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DOsnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACDAzX2xvY2FsABAA
+				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOwzgADsMv
+				AA7C9QAOwisADsIqAATJvQAAswkAAgBJTGlvbjpVc2Vy
+				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
+				cjoAZXhhbXBsZToAMDNfbG9jYWw6AGIuZ2xpdHRlcgAA
+				DgAUAAkAYgAuAGcAbABpAHQAdABlAHIADwAKAAQATABp
+				AG8AbgASAD1Vc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVi
+				eS9nbGl0dGVyL2V4YW1wbGUvMDNfbG9jYWwvYi5nbGl0
+				dGVyAAATAAEvAAAVAAIADP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/03_local/b.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/03_local/b.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>b.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>E271F701-225F-43A6-8881-6D5B25E156FD</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGYAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw1gQZ2xpdHRlcl9jbGFzcy5y
+				YgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABWSdMnH0kNURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
+				jZsDAAAAEQAIAADJx7YjAAAAAQAYAA7DWAAOwvUADsIr
+				AA7CKgAEyb0AALMJAAIAQkxpb246VXNlcnM6AGtlbGtv
+				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AHNyYzoA
+				Z2xpdHRlcl9jbGFzcy5yYgAOACIAEABnAGwAaQB0AHQA
+				ZQByAF8AYwBsAGEAcwBzAC4AcgBiAA8ACgAEAEwAaQBv
+				AG4AEgA3VXNlcnMva2Vsa28vRGV2ZWxvcGVyL3J1Ynkv
+				Z2xpdHRlci9zcmMvZ2xpdHRlcl9jbGFzcy5yYgAAEwAB
+				LwAAFQACAAz//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/glitter_class.rb</string>
+				<key>RelativePath</key>
+				<string>./src/glitter_class.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>glitter_class.rb</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>E4DF1A5A-63D6-4F1B-95C9-27C6328D0314</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHAAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOxIsJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7Ej8nH38VURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAEzExX2RvdWJsZV9l
+				eHBhbnNpb24AABAACAAAyY2bAwAAABEACAAAycfDpQAA
+				AAEAHAAOxIsADsMvAA7C9QAOwisADsIqAATJvQAAswkA
+				AgBUTGlvbjpVc2VyczoAa2Vsa286AERldmVsb3BlcjoA
+				cnVieToAZ2xpdHRlcjoAZXhhbXBsZToAMTFfZG91Ymxl
+				X2V4cGFuc2lvbjoAYS5nbGl0dGVyAA4AFAAJAGEALgBn
+				AGwAaQB0AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBIVXNl
+				cnMva2Vsa28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9l
+				eGFtcGxlLzExX2RvdWJsZV9leHBhbnNpb24vYS5nbGl0
+				dGVyABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/11_double_expansion/a.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/11_double_expansion/a.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>a.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
 		</dict>
 		<key>E6BC0F56-6DF8-419B-9E82-6F43579B25FE</key>
 		<dict>
@@ -1801,66 +2069,74 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>EB4CA700-410A-4ECC-8463-F4165BE338D7</key>
+		<key>E7D0AD58-1C87-43E2-803B-56CF3FD6BFE2</key>
+		<dict>
+			<key>ItemData</key>
+			<array/>
+			<key>ItemName</key>
+			<string>08_global</string>
+			<key>ItemType</key>
+			<string>StaticCollection</string>
+		</dict>
+		<key>EA39853F-8621-4285-A1F4-F3281BCE1FB1</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGyAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOw0QObG9hZGluZzIuZ2xvc3MA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DS8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABzA2X2xvYWQAABAA
-				CAAAyY2bAwAAABEACAAAyce2IwAAAAEAHAAOw0QADsMv
-				AA7C9QAOwisADsIqAATJvQAAswkAAgBNTGlvbjpVc2Vy
-				czoAa2Vsa286AERldmVsb3BlcjoAcnVieToAZ2xpdHRl
-				cjoAZXhhbXBsZToAMDZfbG9hZDoAbG9hZGluZzIuZ2xv
-				c3MAAA4AHgAOAGwAbwBhAGQAaQBuAGcAMgAuAGcAbABv
-				AHMAcwAPAAoABABMAGkAbwBuABIAQVVzZXJzL2tlbGtv
-				L0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvZXhhbXBsZS8w
-				Nl9sb2FkL2xvYWRpbmcyLmdsb3NzAAATAAEvAAAVAAIA
-				DP//AAA=
+				AAAAAAGsAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw1gVaGVyZURvY3VtZW50UGFy
+				c2VyLnJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABWQx8nYtHtURVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAA3NyYwAAEAAIAADJ
+				jZsDAAAAEQAIAADJ2JhbAAAAAQAYAA7DWAAOwvUADsIr
+				AA7CKgAEyb0AALMJAAIAR0xpb246VXNlcnM6AGtlbGtv
+				OgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6AHNyYzoA
+				aGVyZURvY3VtZW50UGFyc2VyLnJiAAAOACwAFQBoAGUA
+				cgBlAEQAbwBjAHUAbQBlAG4AdABQAGEAcgBzAGUAcgAu
+				AHIAYgAPAAoABABMAGkAbwBuABIAPFVzZXJzL2tlbGtv
+				L0RldmVsb3Blci9ydWJ5L2dsaXR0ZXIvc3JjL2hlcmVE
+				b2N1bWVudFBhcnNlci5yYgATAAEvAAAVAAIADP//AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/06_load/loading2.gloss</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/src/hereDocumentParser.rb</string>
 				<key>RelativePath</key>
-				<string>./example/06_load/loading2.gloss</string>
+				<string>./src/hereDocumentParser.rb</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>loading2.gloss</string>
+			<string>hereDocumentParser.rb</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>EEAB7E49-BB84-41F2-9D65-54676EE9CC6B</key>
+		<key>EC601E9D-F4DC-4400-9DC5-40A4D8B394A3</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAG4AAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAVi/EJYS5nbGl0dGVyAAAAAAAA
+				AAAAAAHAAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOwzEJYS5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABWL88nYqsRURVhUUipjaP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAEDA5X2NvbXB1dGVk
-				X3ZhbHMAEAAIAADJjZsDAAAAEQAIAADJ2I6kAAAAAQAc
-				ABWL8QAOwy8ADsL1AA7CKwAOwioABMm9AACzCQACAFFM
-				aW9uOlVzZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5
-				OgBnbGl0dGVyOgBleGFtcGxlOgAwOV9jb21wdXRlZF92
-				YWxzOgBhLmdsaXR0ZXIAAA4AFAAJAGEALgBnAGwAaQB0
-				AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBFVXNlcnMva2Vs
-				a28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9leGFtcGxl
-				LzA5X2NvbXB1dGVkX3ZhbHMvYS5nbGl0dGVyAAATAAEv
-				AAAVAAIADP//AAA=
+				AAAAAAAAAAAAAAAAAAAAAA7DMsnH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAEzAxX3NpbmdsZV9p
+				bmplY3Rpb24AABAACAAAyY2bAwAAABEACAAAyce2IwAA
+				AAEAHAAOwzEADsMvAA7C9QAOwisADsIqAATJvQAAswkA
+				AgBUTGlvbjpVc2VyczoAa2Vsa286AERldmVsb3BlcjoA
+				cnVieToAZ2xpdHRlcjoAZXhhbXBsZToAMDFfc2luZ2xl
+				X2luamVjdGlvbjoAYS5nbGl0dGVyAA4AFAAJAGEALgBn
+				AGwAaQB0AHQAZQByAA8ACgAEAEwAaQBvAG4AEgBIVXNl
+				cnMva2Vsa28vRGV2ZWxvcGVyL3J1YnkvZ2xpdHRlci9l
+				eGFtcGxlLzAxX3NpbmdsZV9pbmplY3Rpb24vYS5nbGl0
+				dGVyABMAAS8AABUAAgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/09_computed_vals/a.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/01_single_injection/a.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/09_computed_vals/a.glitter</string>
+				<string>./example/01_single_injection/a.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -1871,31 +2147,30 @@
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
-		<key>F0CC1D14-A28E-474B-8B22-96D4FC864BAD</key>
+		<key>EEAEFEB7-B274-4205-8B8D-1227E290C825</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAHGAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAADJjakTSCsAAAAOwzQJYy5nbGl0dGVyAAAAAAAA
+				AAAAAAGWAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw0AJYy5nbGl0dGVyAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAA7DN8nH0kMAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAFTAyX211bHRpcGxl
-				X2luamVjdGlvbgAAEAAIAADJjZsDAAAAEQAIAADJx7Yj
-				AAAAAQAcAA7DNAAOwy8ADsL1AA7CKwAOwioABMm9AACz
-				CQACAFZMaW9uOlVzZXJzOgBrZWxrbzoARGV2ZWxvcGVy
-				OgBydWJ5OgBnbGl0dGVyOgBleGFtcGxlOgAwMl9tdWx0
-				aXBsZV9pbmplY3Rpb246AGMuZ2xpdHRlcgAOABQACQBj
-				AC4AZwBsAGkAdAB0AGUAcgAPAAoABABMAGkAbwBuABIA
-				SlVzZXJzL2tlbGtvL0RldmVsb3Blci9ydWJ5L2dsaXR0
-				ZXIvZXhhbXBsZS8wMl9tdWx0aXBsZV9pbmplY3Rpb24v
-				Yy5nbGl0dGVyABMAAS8AABUAAgAM//8AAA==
+				AAAAAAAAAAAAAAAAAAAAAA7DQ8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABTA1X2lmAAAQAAgA
+				AMmNmwMAAAARAAgAAMnHtiMAAAABABwADsNAAA7DLwAO
+				wvUADsIrAA7CKgAEyb0AALMJAAIARkxpb246VXNlcnM6
+				AGtlbGtvOgBEZXZlbG9wZXI6AHJ1Ynk6AGdsaXR0ZXI6
+				AGV4YW1wbGU6ADA1X2lmOgBjLmdsaXR0ZXIADgAUAAkA
+				YwAuAGcAbABpAHQAdABlAHIADwAKAAQATABpAG8AbgAS
+				ADpVc2Vycy9rZWxrby9EZXZlbG9wZXIvcnVieS9nbGl0
+				dGVyL2V4YW1wbGUvMDVfaWYvYy5nbGl0dGVyABMAAS8A
+				ABUAAgAM//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/02_multiple_injection/c.glitter</string>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/05_if/c.glitter</string>
 				<key>RelativePath</key>
-				<string>./example/02_multiple_injection/c.glitter</string>
+				<string>./example/05_if/c.glitter</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -1903,6 +2178,40 @@
 			</dict>
 			<key>ItemName</key>
 			<string>c.glitter</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>FB130A04-ADB1-4D82-9C21-2D2FEEA89409</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGiAAIAAARMaW9uAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAADJjakTSCsAAAAOw04JYS5nbGl0dGVyAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAA7DT8nH0kMAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACTA3X2ltcG9ydAAA
+				EAAIAADJjZsDAAAAEQAIAADJx7YjAAAAAQAcAA7DTgAO
+				wy8ADsL1AA7CKwAOwioABMm9AACzCQACAEpMaW9uOlVz
+				ZXJzOgBrZWxrbzoARGV2ZWxvcGVyOgBydWJ5OgBnbGl0
+				dGVyOgBleGFtcGxlOgAwN19pbXBvcnQ6AGEuZ2xpdHRl
+				cgAOABQACQBhAC4AZwBsAGkAdAB0AGUAcgAPAAoABABM
+				AGkAbwBuABIAPlVzZXJzL2tlbGtvL0RldmVsb3Blci9y
+				dWJ5L2dsaXR0ZXIvZXhhbXBsZS8wN19pbXBvcnQvYS5n
+				bGl0dGVyABMAAS8AABUAAgAM//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/kelko/Developer/ruby/glitter/example/07_import/a.glitter</string>
+				<key>RelativePath</key>
+				<string>./example/07_import/a.glitter</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>a.glitter</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>

@@ -1,5 +1,3 @@
-require 'varNameExpansion.rb'
-
 class LoadParser
 
 	include VarNameExpansion
