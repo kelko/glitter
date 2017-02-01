@@ -35,6 +35,8 @@ class TemplateProcessor
 			
 		elsif variable =~ /\*\*\{\s*([\w\.]*)\s*\}/
 			expression = expandCompoundVarName($1, injectionValues)
+
+			raise(VariableNotInjected, variable) unless expression
 			
 			unless expression.is_a?(SimpleExpression)
 				raise OnlySimpleExpressionsHere
@@ -44,6 +46,8 @@ class TemplateProcessor
 	
 		elsif variable =~ /\*\{\s*([\w\.]*)\s*\}/
 			expression = expandCompoundVarName($1, injectionValues)
+			
+			raise(VariableNotInjected, variable) unless expression
 			
 			unless expression.is_a?(SimpleExpression)
 				raise OnlySimpleExpressionsHere
