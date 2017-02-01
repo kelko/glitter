@@ -279,16 +279,15 @@
 								#a seems-flag (with one dash)
 									$1.scan(/(.)/) do |char| 
 										found = false
-										flag = nil
 										@flags.each do |flag|
-											found = flag['option'] == char[0]
+											found = flag if flag['option'] == char[0]
 											break if found
 										end
 										
 										if found then
-											pa.newFlag(flag['name'], true)
+											pa.newFlag(found['name'], true)
 											#quit parsing if set "autoQuit"
-											raise ArgumentError, 'quit' if flag['quit']
+											raise ArgumentError, 'quit' if found['quit']
 										else
 											raise "#{char[0]} is no valid flag"
 										end
@@ -298,16 +297,15 @@
 								when /^-{2,2}(\w[\w\-]+)$/ then
 								#a seems-flag (with two dashes)
 									found = false
-									flag = nil
 									@flags.each do |flag|
-										found = flag['longoption'] == $1
+										found = flag if flag['longoption'] == $1
 										break if found
 									end
 									
 									if found then
-										pa.newFlag(flag['name'], true)
+										pa.newFlag(found['name'], true)
 										#quit parsing if set "autoQuit"
-										raise ArgumentError, 'quit' if flag['quit']
+										raise ArgumentError, 'quit' if found['quit']
 									else
 										raise "#{$1} is no valid flag"
 									end
