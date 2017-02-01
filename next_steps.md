@@ -3,14 +3,9 @@ Next Steps
 
 To Develop
 -----------
-- header / footer functionality
-- global parameters passing
-
-To Test
------------
-- here documents
-
+- global not in .glitter file but a "global.gloss"
 
 Ideas
 ------------
+- possibility to only "patch" vars on n+1st iteration in - injection -
 - simplified syntax for more iterations in - injection - with only one var
