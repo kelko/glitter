@@ -21,7 +21,7 @@ class LoadParser
 				raise NotMyJobException
 				
 			else
-				parser = LoadAssignmentParser.new
+				parser = BasicAssignmentParser.new
 				
 				parser.processor = @processor
 				key, val = parser.parseSingleLine(line)

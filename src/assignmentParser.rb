@@ -1,4 +1,4 @@
-class LoadAssignmentParser
+class BasicAssignmentParser
 
 	attr_accessor :processor
 	
@@ -110,12 +110,12 @@ class LoadAssignmentParser
 
 end
 
-class GlobalAssignmentParser < LoadAssignmentParser
+class AssignmentParser < BasicAssignmentParser
 
 	def initialize(valueStore = CompoundExpression.new)
 		super(valueStore)
 	end
-	
+
 	def process(parts)
 		variable = parts[0]
 		expression = parts[1]
@@ -129,51 +129,6 @@ class GlobalAssignmentParser < LoadAssignmentParser
 			when /load\("(.*)"\)/
 				fileName = $1
 				loadFile(variable, fileName)
-				
-			else
-				super(parts)
-
-		end
-	end
-	
-	def loadFile(varName, fileName)
-		cExp = CompoundExpression.new		
-		@values[varName] = cExp
-		
-		@processor.processInput( fileName, LoadParser.new(cExp))
-	end
-	
-	def loadFileWithParameters(varName, fileName)
-		# the compound for parameters for load()
-		cExp = CompoundExpression.new
-		aParser = AssignmentParser.new(cExp)
-		
-		# the compound for results of load
-		innerCExp = CompoundExpression.new	
-		# assigned now, filled with content later
-		@values[varName] = innerCExp
-		
-		aParser.whenFinished do
-			# filled with content now
-			@processor.processInput( fileName, LoadParser.new(innerCExp), cExp.evaluate)
-		end
-		
-		@processor.registerParser aParser
-	end
-	
-end
-
-class AssignmentParser < GlobalAssignmentParser
-
-	def initialize(valueStore = CompoundExpression.new)
-		super(valueStore)
-	end
-
-	def process(parts)
-		variable = parts[0]
-		expression = parts[1]
-		
-		case expression.strip
 		
 			when /quote\("(.*)"\)/
 				fileName = $1
@@ -224,4 +179,28 @@ class AssignmentParser < GlobalAssignmentParser
 		@processor.registerParser aParser
 	end
 
+	def loadFile(varName, fileName)
+		cExp = CompoundExpression.new		
+		@values[varName] = cExp
+		
+		@processor.processInput( fileName, LoadParser.new(cExp))
+	end
+	
+	def loadFileWithParameters(varName, fileName)
+		# the compound for parameters for load()
+		cExp = CompoundExpression.new
+		aParser = AssignmentParser.new(cExp)
+		
+		# the compound for results of load
+		innerCExp = CompoundExpression.new	
+		# assigned now, filled with content later
+		@values[varName] = innerCExp
+		
+		aParser.whenFinished do
+			# filled with content now
+			@processor.processInput( fileName, LoadParser.new(innerCExp), cExp.evaluate)
+		end
+		
+		@processor.registerParser aParser
+	end
 end

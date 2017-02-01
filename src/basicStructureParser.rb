@@ -2,9 +2,7 @@ class BasicStructureParser
 
 	attr_accessor :processor
 	
-	def initialize(secondary = true)
-		@secondary = secondary
-		
+	def initialize()		
 		@step = 0
 	end
 	
@@ -14,15 +12,7 @@ class BasicStructureParser
 	def parse(line, words)
 		
 		case line			
-			when /\-\sglobal\s\-/
-				if @step > 0 then
-					raise "global may not come at this point"
-				end
-				
-				@step = 1
-				@processor.registerParser( GlobalParser.new( @secondary ) )	
-				
-				
+	
 			when /\-\slocal\s\-/
 				if @step > 1 then
 					raise "local may not come at this point"

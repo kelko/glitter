@@ -653,7 +653,7 @@ class LoadParser
 				raise NotMyJobException
 				
 			else
-				parser = LoadAssignmentParser.new
+				parser = BasicAssignmentParser.new
 				
 				parser.processor = @processor
 				key, val = parser.parseSingleLine(line)
@@ -717,30 +717,17 @@ class GlobalParser
 
 	attr_accessor :processor
 	
-	def initialize(skip = false)
-		@skip = skip
+	def initialize()
 		@valueStore = {}
 	end
 
 	def eofFound
-		raise WTF
-	end	
+		@processor.defineGlobals(@valueStore)
+	end
 	
 	def parse(line, words)
-		
-		case line
-			when /\-\slocal\s\-/, /\-\sinjection\s\-/
-				@processor.defineGlobals(@valueStore) unless @skip
-				raise NotMyJobException
-				
-			when /\-\stemplate\s\-/
-				raise WTF
-		end
+		parser = BasicAssignmentParser.new
 
-		return if @skip
-		
-		parser = LoadAssignmentParser.new
-				
 		parser.processor = @processor
 		key, val = parser.parseSingleLine(line)
 				
@@ -750,7 +737,7 @@ class GlobalParser
 end
 
 
-class LoadAssignmentParser
+class BasicAssignmentParser
 
 	attr_accessor :processor
 	
@@ -862,12 +849,12 @@ class LoadAssignmentParser
 
 end
 
-class GlobalAssignmentParser < LoadAssignmentParser
+class AssignmentParser < BasicAssignmentParser
 
 	def initialize(valueStore = CompoundExpression.new)
 		super(valueStore)
 	end
-	
+
 	def process(parts)
 		variable = parts[0]
 		expression = parts[1]
@@ -881,51 +868,6 @@ class GlobalAssignmentParser < LoadAssignmentParser
 			when /load\("(.*)"\)/
 				fileName = $1
 				loadFile(variable, fileName)
-				
-			else
-				super(parts)
-
-		end
-	end
-	
-	def loadFile(varName, fileName)
-		cExp = CompoundExpression.new		
-		@values[varName] = cExp
-		
-		@processor.processInput( fileName, LoadParser.new(cExp))
-	end
-	
-	def loadFileWithParameters(varName, fileName)
-		# the compound for parameters for load()
-		cExp = CompoundExpression.new
-		aParser = AssignmentParser.new(cExp)
-		
-		# the compound for results of load
-		innerCExp = CompoundExpression.new	
-		# assigned now, filled with content later
-		@values[varName] = innerCExp
-		
-		aParser.whenFinished do
-			# filled with content now
-			@processor.processInput( fileName, LoadParser.new(innerCExp), cExp.evaluate)
-		end
-		
-		@processor.registerParser aParser
-	end
-	
-end
-
-class AssignmentParser < GlobalAssignmentParser
-
-	def initialize(valueStore = CompoundExpression.new)
-		super(valueStore)
-	end
-
-	def process(parts)
-		variable = parts[0]
-		expression = parts[1]
-		
-		case expression.strip
 		
 			when /quote\("(.*)"\)/
 				fileName = $1
@@ -976,6 +918,30 @@ class AssignmentParser < GlobalAssignmentParser
 		@processor.registerParser aParser
 	end
 
+	def loadFile(varName, fileName)
+		cExp = CompoundExpression.new		
+		@values[varName] = cExp
+		
+		@processor.processInput( fileName, LoadParser.new(cExp))
+	end
+	
+	def loadFileWithParameters(varName, fileName)
+		# the compound for parameters for load()
+		cExp = CompoundExpression.new
+		aParser = AssignmentParser.new(cExp)
+		
+		# the compound for results of load
+		innerCExp = CompoundExpression.new	
+		# assigned now, filled with content later
+		@values[varName] = innerCExp
+		
+		aParser.whenFinished do
+			# filled with content now
+			@processor.processInput( fileName, LoadParser.new(innerCExp), cExp.evaluate)
+		end
+		
+		@processor.registerParser aParser
+	end
 end
 
 
@@ -1530,9 +1496,7 @@ class BasicStructureParser
 
 	attr_accessor :processor
 	
-	def initialize(secondary = true)
-		@secondary = secondary
-		
+	def initialize()		
 		@step = 0
 	end
 	
@@ -1542,15 +1506,7 @@ class BasicStructureParser
 	def parse(line, words)
 		
 		case line			
-			when /\-\sglobal\s\-/
-				if @step > 0 then
-					raise "global may not come at this point"
-				end
-				
-				@step = 1
-				@processor.registerParser( GlobalParser.new( @secondary ) )	
-				
-				
+	
 			when /\-\slocal\s\-/
 				if @step > 1 then
 					raise "local may not come at this point"
@@ -1700,8 +1656,6 @@ class FileProcessor
 	end
 	
 	def addInjectionValues(values)
-		puts values.class
-
 		values["$iteration"] = @injectionValues.size + 1
 		
 		if @input.is_a?(File) then
@@ -1761,11 +1715,6 @@ class FileProcessor
 	def defineGlobals(valueStore)
 		@glitter.globals = valueStore
 	end
-	
-	def dumpVars
-		p @glitter.globals
-		p @localValues
-	end
 
 end
 
@@ -1780,20 +1729,23 @@ class Glitter
 		
 	end
 	
-	def processInputFile(inputFile, output)
-		@output = output
-	
-		run( 
-			opening(inputFile) do |file| 
-				fileProcessor( file, BasicStructureParser.new(false))
-			end
-		)
-	end
-	
 	def processInputStream(inputStream, output)
 		@output = output
 	
-		run fileProcessor( inputStream, BasicStructureParser.new(false))		
+		run fileProcessor( inputStream, BasicStructureParser.new)		
+	end
+	
+	def processInputFile(inputFile, output)
+		@output = output
+
+		loadGlobals()
+		startProcessing(inputFile, BasicStructureParser.new)
+	end
+
+	def loadGlobals()
+		opening("globals.gloss") do |file|
+			run(fileProcessor(file, GlobalParser.new))
+		end
 	end
 
 	def startProcessing(filePath, startParser, parameters = {}, writeTarget = nil )
@@ -1806,6 +1758,8 @@ class Glitter
 	
 	def opening(filePath)
 		pn = cleanAbsolutePath(filePath)
+		return unless File.exist?(pn.to_s)
+
 		@wdStack << Pathname.pwd
 		
 		Dir.chdir(pn.dirname)		

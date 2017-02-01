@@ -1,0 +1,15 @@
+- local -
+
+andme: 'too!'
+
+- injection -
+{
+    tryme: tryme,
+    andme: andme
+}
+
+//Result:
+//> Do try me and me too!
+
+- template -
+*{tryme} try me and me *{andme}

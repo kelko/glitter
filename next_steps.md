@@ -4,9 +4,6 @@ Next Steps
 To Develop
 -----------
 
-- global not in .glitter file but a "global.gloss"
-
-
 
 Ideas
 ------------

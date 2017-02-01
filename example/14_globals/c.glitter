@@ -1,0 +1,18 @@
+- local -
+
+donttry: 'Don't'
+andme: 'too!'
+
+- injection -
+{
+    tryme: donttry,
+    andme: andme
+}
+
+//Result:
+//> Don't try me and me too!
+// 
+// (Only Injections used in Template, globals are not used directly)
+
+- template -
+*{tryme} try me and me *{andme}

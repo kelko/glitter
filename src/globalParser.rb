@@ -2,30 +2,17 @@ class GlobalParser
 
 	attr_accessor :processor
 	
-	def initialize(skip = false)
-		@skip = skip
+	def initialize()
 		@valueStore = {}
 	end
 
 	def eofFound
-		raise WTF
-	end	
+		@processor.defineGlobals(@valueStore)
+	end
 	
 	def parse(line, words)
-		
-		case line
-			when /\-\slocal\s\-/, /\-\sinjection\s\-/
-				@processor.defineGlobals(@valueStore) unless @skip
-				raise NotMyJobException
-				
-			when /\-\stemplate\s\-/
-				raise WTF
-		end
+		parser = BasicAssignmentParser.new
 
-		return if @skip
-		
-		parser = LoadAssignmentParser.new
-				
 		parser.processor = @processor
 		key, val = parser.parseSingleLine(line)
 				

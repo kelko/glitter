@@ -8,20 +8,23 @@ class Glitter
 		
 	end
 	
-	def processInputFile(inputFile, output)
-		@output = output
-	
-		run( 
-			opening(inputFile) do |file| 
-				fileProcessor( file, BasicStructureParser.new(false))
-			end
-		)
-	end
-	
 	def processInputStream(inputStream, output)
 		@output = output
 	
-		run fileProcessor( inputStream, BasicStructureParser.new(false))		
+		run fileProcessor( inputStream, BasicStructureParser.new)		
+	end
+	
+	def processInputFile(inputFile, output)
+		@output = output
+
+		loadGlobals()
+		startProcessing(inputFile, BasicStructureParser.new)
+	end
+
+	def loadGlobals()
+		opening("globals.gloss") do |file|
+			run(fileProcessor(file, GlobalParser.new))
+		end
 	end
 
 	def startProcessing(filePath, startParser, parameters = {}, writeTarget = nil )
@@ -34,6 +37,8 @@ class Glitter
 	
 	def opening(filePath)
 		pn = cleanAbsolutePath(filePath)
+		return unless File.exist?(pn.to_s)
+
 		@wdStack << Pathname.pwd
 		
 		Dir.chdir(pn.dirname)		

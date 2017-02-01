@@ -172,10 +172,5 @@ class FileProcessor
 	def defineGlobals(valueStore)
 		@glitter.globals = valueStore
 	end
-	
-	def dumpVars
-		p @glitter.globals
-		p @localValues
-	end
 
 end
