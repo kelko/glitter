@@ -1,4 +1,4 @@
-about = {'name'=>"glitter", 'desc'=>'Template Processing', 'author'=>":kelko:",'mail'=>"kelko@anakrino.de",'licence'=>KELKO::TOOLS::About::LICENSE_CC_BY_NC_SA,'version'=>"0.1"}
+about = {'name'=>"glitter", 'desc'=>'Template Processing', 'author'=>":kelko:",'mail'=>"kelko@anakrino.de",'licence'=>KELKO::TOOLS::About::LICENSE_CC_BY_NC_SA,'version'=>"1.0"}
 KELKO::TOOLS::About.getInstance << about
 
 clp = KELKO::TOOLS::CommandLineParser.getInstance
