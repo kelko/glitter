@@ -65,7 +65,13 @@ class CompoundExpression
 	end
 	
 	def [](key)
-		return @values[key]
+		result = @values[key]
+
+		unless result
+			result = @values["$_prior"][key] if @values["$_prior"] 
+		end
+
+		return result
 	end
 	
 	def []=(key, value)

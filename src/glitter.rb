@@ -563,7 +563,13 @@ class CompoundExpression
 	end
 	
 	def [](key)
-		return @values[key]
+		result = @values[key]
+
+		unless result
+			result = @values["$_prior"][key] if @values["$_prior"] 
+		end
+
+		return result
 	end
 	
 	def []=(key, value)
@@ -1694,12 +1700,19 @@ class FileProcessor
 	end
 	
 	def addInjectionValues(values)
+		puts values.class
+
 		values["$iteration"] = @injectionValues.size + 1
 		
 		if @input.is_a?(File) then
 			values["$file"] = @input.path
 		else
 			values["$file"] = "stdin"
+		end
+
+		if @injectionValues.length > 0 then
+			previousValues = @injectionValues[-1]
+			values["$_prior"] = previousValues
 		end
 		
 		@injectionValues << values

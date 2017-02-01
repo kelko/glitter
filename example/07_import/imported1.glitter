@@ -1,18 +1,4 @@
-- global - 
-
-ignoreme: 'yes!'
-
-- local - 
-
-if defined? ignoreme
-
-	val1: 'global not ignored'
-
-else
-
-	val1: 'global ignored'
-
-end
+- local -
 
 if param1 = 'hello'
 	val2: 'passed hello'

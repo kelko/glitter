@@ -120,6 +120,11 @@ class FileProcessor
 		else
 			values["$file"] = "stdin"
 		end
+
+		if @injectionValues.length > 0 then
+			previousValues = @injectionValues[-1]
+			values["$_prior"] = previousValues
+		end
 		
 		@injectionValues << values
 	end
