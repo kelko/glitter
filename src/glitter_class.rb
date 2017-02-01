@@ -24,12 +24,12 @@ class Glitter
 		run fileProcessor( inputStream, BasicStructureParser.new(false))		
 	end
 
-	def startProcessing(filePath, startParser, parameters = {} )
-		run( opening(filePath) { |file| fileProcessor(file, startParser, parameters) } )
+	def startProcessing(filePath, startParser, parameters = {}, writeTarget = nil )
+		run( opening(filePath) { |file| fileProcessor(file, startParser, parameters, writeTarget) } )
 	end
 	
-	def startQuoting(filePath, startParser)
-		run( opening(filePath) { |file| fileQuoter( file, startParser ) } )
+	def startQuoting(filePath, startParser, writeTarget = nil)
+		run( opening(filePath) { |file| fileQuoter( file, startParser, writeTarget ) } )
 	end
 	
 	def opening(filePath)
@@ -46,14 +46,14 @@ class Glitter
 		@output.puts line
 	end
 	
-	def fileProcessor(forInput, startingWith, parameters = {})
-		fProcessor = FileProcessor.new(forInput, startingWith, parameters )	
+	def fileProcessor(forInput, startingWith, parameters = {}, writeTarget = nil)
+		fProcessor = FileProcessor.new(forInput, startingWith, parameters, writeTarget )	
 		fProcessor.glitter = self
 		return fProcessor
 	end
 	
-	def fileQuoter(forInput, startingWith)
-		fProcessor = FileProcessor.new(forInput, startingWith )
+	def fileQuoter(forInput, startingWith, writeTarget = nil)
+		fProcessor = FileProcessor.new(forInput, startingWith, {}, writeTarget )
 		fProcessor.glitter = self
 		fProcessor.quoteMode = true
 		

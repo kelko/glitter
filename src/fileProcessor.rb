@@ -8,9 +8,10 @@ class FileProcessor
 	
 	attr_accessor :quoteMode
 
-	def initialize( input, parser, parameters = {} )
+	def initialize( input, parser, parameters = {}, writeTarget = nil )
 		@input = input
 		@parserStack = [ ]
+		@writeTarget = writeTarget
 		
 		@injectionValues = []
 		@localValues = parameters
@@ -94,8 +95,8 @@ class FileProcessor
 		@glitter.startProcessing(filename, processor, parameters)
 	end
 	
-	def quoteInput(filename, processor)
-		@glitter.startQuoting(filename, processor)
+	def quoteInput(filename, processor, &block)
+		@glitter.startQuoting(filename, processor, block)
 	end
 	
 	def splitLine(line)
@@ -103,7 +104,12 @@ class FileProcessor
 	end
 	
 	def write(line)
-		@glitter.write line
+		if @writeTarget then
+			@writeTarget.call line
+		else 
+			@glitter.write line
+		end
+		
 	end
 	
 	def addInjectionValues(values)

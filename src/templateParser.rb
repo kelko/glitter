@@ -195,6 +195,11 @@ class TemplateParser
 	end
 	
 	def setupHBFParser(line, words, lineBuffer)
+
+		if words.length < 2 then
+			raise WTF
+		end
+
 		if words[1] =~ /(\w*)>>/
 			markerExpansion = $1
 			
@@ -206,7 +211,19 @@ class TemplateParser
 			@processor.registerParser newParser
 
 		else
-			raise WTF
+			restOfLine = words.slice(1..-1).join(" ")
+			if restOfLine.strip =~ /quote\("(.*)"\)/ then
+				templateFile = $1
+
+				@processor.quoteInput(templateFile, QuoteParser.new) {
+					|line|
+					lineBuffer << line
+				}
+
+			else
+				raise WTF
+			end
+
 		end
 	
 	end
