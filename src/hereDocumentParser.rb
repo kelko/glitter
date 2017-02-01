@@ -26,7 +26,7 @@ class HereDocumentParser
 		end
 		
 		
-		@stringBuffer << line
+		@stringBuffer << line.rstrip()
 		
 	end
 	

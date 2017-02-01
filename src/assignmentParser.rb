@@ -89,6 +89,7 @@ class BasicAssignmentParser
 	def setVariable(varName, value)
 		
 		sE = SimpleExpression.new
+		sE.processor = @processor
 		sE.value = value
 		
 		@values[varName] = sE
@@ -96,6 +97,7 @@ class BasicAssignmentParser
 	
 	def parseHereDocument(varName, markerExpansion = "")
 		sExp = SimpleExpression.new
+		sExp.processor = @processor
 		@values[varName] = sExp;
 		
 		@processor.registerParser HereDocumentParser.new(sExp, markerExpansion)

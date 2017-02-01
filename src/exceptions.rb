@@ -1,10 +1,13 @@
 class NotMyJobException < Exception
 end
 
-class OnlySimpleExpressionsHere < Exception
+class WTF < Exception
 end
 
-class WTF < Exception
+class OnlyEvaluableExpressionsHere < Exception
+    def init(variableName)
+        @variableName = variableName
+    end
 end
 
 class VariableNotInjected < Exception

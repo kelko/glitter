@@ -1,0 +1,27 @@
+- local -
+
+
+msg: {
+	normal: >>
+This is a so called "Here Document".
+A Multi-Line-String. The end must be a single line with only the end delimiter
+<<
+
+	custom: x>>
+The end delimiter is not reduced to "<<", you can expand it by own characters
+This way you can make sure the here document is not ended prematurely.
+For example because of the "x" I added I can write the following line inside this text:
+<<
+And no, it's not ended! It will end now:
+<<x
+}
+
+- injection -
+	{
+		Message: msg
+	}
+
+- template -
+*> Message.normal
+
+*> Message.custom

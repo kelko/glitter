@@ -6,18 +6,19 @@ class TemplateProcessor
 	def process(line)
 	
 		if line =~ /^\*\> (.*)/
-			import $1.strip
+			importContent $1.strip
 		
-		else			
+		else
 			@fileProcessor.write( expand(line) )
 			
 		end
 		
 	end
 	
-	def import(variable)
+	def importContent(variable)
 		expression = expandCompoundVarName(variable, injectionValues)
-		return expression.evaluate
+		
+		expression.writeOutContent if expression.respond_to?(:writeOutContent)
 	end
 	
 	def expand(line)
@@ -38,8 +39,8 @@ class TemplateProcessor
 
 			raise(VariableNotInjected, variable) unless expression
 			
-			unless expression.is_a?(SimpleExpression)
-				raise OnlySimpleExpressionsHere
+			unless expression.respond_to?(:evaluate)
+				raise OnlyEvaluableExpressionsHere, variable
 			end
 			
 			return expand( expression.evaluate )
@@ -49,8 +50,8 @@ class TemplateProcessor
 			
 			raise(VariableNotInjected, variable) unless expression
 			
-			unless expression.is_a?(SimpleExpression)
-				raise OnlySimpleExpressionsHere
+			unless expression.respond_to?(:evaluate)
+				raise OnlyEvaluableExpressionsHere, variable
 			end
 			
 			return expression.evaluate

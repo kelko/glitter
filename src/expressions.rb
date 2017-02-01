@@ -1,50 +1,22 @@
 class SimpleExpression
 
 	attr_accessor :value
+	attr_accessor :processor
 	
 	def evaluate
 		return @value
 	end
+
+	def writeOutContent
+		@processor.write(@value.to_s)
+	end
+
+	def 
 	
 	def to_s
 		@value.to_s
 	end
 
-end
-
-class QuoteExpression
-
-	attr_accessor :fileName
-	attr_accessor :processor
-	
-	def evaluate
-		# "lazy" evaluation
-		@processor.quoteInput(@fileName, QuoteParser.new)
-	end
-	
-	def to_s
-		@fileName
-	end
-
-end
-
-class ImportExpression
-	attr_accessor :fileName
-	attr_accessor :parameters
-	attr_accessor :processor
-	
-	def initialize
-		@parameters = {}
-	end
-	
-	def evaluate
-		# "lazy evaluation"
-		@processor.processInput(@fileName, BasicStructureParser.new, @parameters)
-	end
-	
-	def to_s
-		@fileName
-	end
 end
 
 class CompoundExpression
@@ -84,4 +56,41 @@ class CompoundExpression
 	end
 
 end
+
+class QuoteExpression
+
+	attr_accessor :fileName
+	attr_accessor :processor
+	
+	def writeOutContent
+		# "lazy" evaluation
+		@processor.quoteInput(@fileName, QuoteParser.new)
+	end
+	
+	def to_s
+		@fileName
+	end
+
+end
+
+class ImportExpression
+	attr_accessor :fileName
+	attr_accessor :parameters
+	attr_accessor :processor
+	
+	def initialize
+		@parameters = {}
+	end
+	
+	def writeOutContent
+		# "lazy evaluation"
+		@processor.processInput(@fileName, BasicStructureParser.new, @parameters)
+	end
+	
+	def to_s
+		@fileName
+	end
+end
+
+
 
