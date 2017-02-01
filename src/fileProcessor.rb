@@ -138,7 +138,6 @@ class FileProcessor
 	
 		value = findValue(varName)
 		
-		return NullExpression.new unless value
 		return value
 	end
 	

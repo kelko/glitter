@@ -1,14 +1,3 @@
-class NullExpression
-
-	def evaluate
-		nil
-	end
-
-	def to_s
-		"null"
-	end
-end
-
 class SimpleExpression
 
 	attr_accessor :value
