@@ -66,6 +66,15 @@ class QuoteExpression
 		# "lazy" evaluation
 		@processor.quoteInput(@fileName, QuoteParser.new)
 	end
+
+	def evaluate
+		result = []
+		@processor.quoteInput(@fileName, QuoteParser.new) do |line|
+			result << line
+		end
+
+		return result.join("")
+	end
 	
 	def to_s
 		@fileName

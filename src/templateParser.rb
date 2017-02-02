@@ -55,8 +55,9 @@ class TemplateProcessor
 			end
 			
 			return expression.evaluate
+
 		else
-			raise WTF
+			raise(VariableNotInjected, variable)
 		end
 		
 	end
@@ -74,7 +75,7 @@ class TemplateProcessor
 				return expandCompoundVarName(rest, expression.evaluate)
 			
 			else
-				raise WTF
+				raise(VariableNotInjected, variable)
 			end
 		
 		else
